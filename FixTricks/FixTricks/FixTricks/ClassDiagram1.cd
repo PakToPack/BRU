@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FixTricks.constructors.AllMyRates">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>constructors\AllMyRates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.constructors.AppSettings">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAACAACAA=</HashCode>
+      <FileName>constructors\AppSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.constructors.DBDisciplines">
+    <Position X="1.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>constructors\DBDisciplines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.constructors.ParaX">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAAAAQAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>constructors\ParaX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.constructors.UpdateTime">
+    <Position X="8.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAABAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>constructors\UpdateTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.constructors.Users">
+    <Position X="1.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAgAAAAAAEAAAAAAAEAAAABAAAAAAAAAA=</HashCode>
+      <FileName>constructors\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.constructors.WeekSelect">
+    <Position X="3" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>constructors\WeekSelect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.consts.GetParaNum">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAARAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>consts\GetParaNum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.Lists.AllDaysList">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lists\AllDaysList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.Lists.Grouping&lt;K, T&gt;">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lists\Grouping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.Lists.ParaTypeX">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAUAAAAAEAAAIAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Lists\ParaTypeX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.Lists.RateBuilding">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Lists\RateBuilding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.Lists.RatingTypeX">
+    <Position X="1.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lists\RatingTypeX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.Lists.SpecDaysList">
+    <Position X="1.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Lists\SpecDaysList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.scripts.DBControl">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgQQAAAAggAAAABAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>scripts\DBControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.scripts.GetMyPara">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAACAAAAAQAAAIBAAA=</HashCode>
+      <FileName>scripts\GetMyPara.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.scripts.ReloadData">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAACAQAAAAAAoAQCGAAAAAAAAAKBAIAAAAAAQA=</HashCode>
+      <FileName>scripts\ReloadData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.scripts.Setting">
+    <Position X="6.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAIAEAAAA=</HashCode>
+      <FileName>scripts\Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.views.AllDays">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAABAAAAEgAAAAAAAAAAAAAABAEAAAAAAAAA=</HashCode>
+      <FileName>views\AllDays.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.views.ErrorStart">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>views\ErrorStart.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.views.MainRate">
+    <Position X="1.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAgAAAAAAEAAAAAAAAAEAAAQAAAAA=</HashCode>
+      <FileName>views\MainRate.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.views.SelectGroupByCourse">
+    <Position X="4.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAABQAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>views\SelectGroupByCourse.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.views.SettingsPage">
+    <Position X="8.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>views\SettingsPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.views.SpecDays">
+    <Position X="10" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAQAAAAAAAAAAEAAAAEAAAAQAAA=</HashCode>
+      <FileName>views\SpecDays.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.views.SpecRate">
+    <Position X="3" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAQ=</HashCode>
+      <FileName>views\SpecRate.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.views.Today">
+    <Position X="6.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAoAAAAAAAAAAAAAAAAAAAAAABAAEAQAAAAAA=</HashCode>
+      <FileName>views\Today.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.views.UserInfo">
+    <Position X="10" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>views\UserInfo.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.App">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAABAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.LogIn">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>LogIn.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.MainView">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainView.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.PreLoader">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PreLoader.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixTricks.SysPath">
+    <Position X="4.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>SysPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FixTricks.IPushNotificationRegister">
+    <Position X="1.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPushNotificationRegister.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

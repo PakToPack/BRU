@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FixTricks.views.SelectGroupByCourse">
+    <ContentPage.Content>
+        <StackLayout
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="CenterAndExpand">
+            <Label x:Name="TextX" Text="Выберите вашу группу" IsVisible="False" FontSize="Medium"
+                   HorizontalTextAlignment="Center" />
+            <Picker x:Name="GroupPick" IsVisible="False"/>
+            <Button x:Name="Btn" Text="Далее" Clicked="LoadExcel" IsVisible="False"/>
+            <ActivityIndicator x:Name="ActInd" IsRunning="True" IsVisible="True" Color="Blue"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

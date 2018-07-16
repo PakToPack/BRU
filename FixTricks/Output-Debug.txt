@@ -1,0 +1,1320 @@
+﻿Android application is debugging.
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.Android.dll
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.dll
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FormsViewGroup.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/HtmlAgilityPack.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Portable.Text.Encoding.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLite-net.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_green.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_v2.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.core.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.lib.e_sqlite3.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.provider.e_sqlite3.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.Compression.Portable.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.XlsIO.Portable.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Animated.Vector.Drawable.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Annotations.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Compat.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.UI.dll [External]
+03-07 23:01:27.076 I/art     (10018): Not late-enabling -Xcheck:jni (already on)
+03-07 23:01:27.076 W/art     (10018): Unexpected CPU variant for X86 using defaults: x86
+03-07 23:01:27.182 W/monodroid(10018): Creating public update directory: `/data/user/0/com.eugeneslobodoff.iefstudy/files/.__override__`
+03-07 23:01:27.182 W/monodroid(10018): Using override path: /data/user/0/com.eugeneslobodoff.iefstudy/files/.__override__
+03-07 23:01:27.182 W/monodroid(10018): Using override path: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__
+03-07 23:01:27.182 W/monodroid(10018): Trying to load sgen from: /data/user/0/com.eugeneslobodoff.iefstudy/files/.__override__/libmonosgen-2.0.soLoaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.Utils.dll [External]
+
+03-07 23:01:27.183 W/monodroid(10018): Trying to load sgen from: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/libmonosgen-2.0.so
+03-07 23:01:27.183 W/monodroid(10018): Trying to load sgen from: /storage/emulated/0/../legacy/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/libmonosgen-2.0.so
+03-07 23:01:27.183 W/monodroid(10018): Trying to load sgen from: /data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libmonosgen-2.0.so
+03-07 23:01:27.183 W/monodroid(10018): Trying to load sgen from: /data/user/0/com.eugeneslobodoff.iefstudy/files/.__override__/links/libmonosgen-2.0.so
+03-07 23:01:27.187 W/monodroid-debug(10018): Trying to initialize the debugger with options: --debugger-agent=transport=dt_socket,loglevel=0,address=127.0.0.1:29392,server=y,embedding=1
+03-07 23:01:27.220 W/monodroid-debug(10018): Accepted stdout connection: 33
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Design.dll [External]03-07 23:01:28.023 D/Mono    (10018): Image addref mscorlib[0x9c3aa060] -> mscorlib.dll[0x9c3c8a00]: 2
+
+03-07 23:01:28.023 D/Mono    (10018): Prepared to set up assembly 'mscorlib' (mscorlib.dll)
+03-07 23:01:28.024 D/Mono    (10018): AOT: image 'mscorlib.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-mscorlib.dll.so" not found
+03-07 23:01:28.025 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/mscorlib.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-mscorlib.dll.so" not foundLoaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Fragment.dll [External]
+
+03-07 23:01:28.025 D/Mono    (10018): Config attempting to parse: 'mscorlib.dll.config'.Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Media.Compat.dll [External]
+
+03-07 23:01:28.026 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/mscorlib/mscorlib.config'.
+03-07 23:01:28.095 D/Mono    (10018): Assembly mscorlib[0x9c3aa060] added to domain RootDomain, ref_count=1Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Transition.dll [External]
+
+03-07 23:01:28.288 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.Android.dll'.
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v4.dll [External]03-07 23:01:28.290 D/Mono    (10018): Image addref FixTricks.Android[0x9c3aa1e0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.Android.dll[0x9c3c9400]: 2
+
+03-07 23:01:28.290 D/Mono    (10018): Prepared to set up assembly 'FixTricks.Android' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.Android.dll)
+03-07 23:01:28.290 D/Mono    (10018): Assembly FixTricks.Android[0x9c3aa1e0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.292 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.Android.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-FixTricks.Android.dll.so" not found
+03-07 23:01:28.293 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/FixTricks.Android.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-FixTricks.Android.dll.so" not found
+03-07 23:01:28.295 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.Android.dll'.
+03-07 23:01:28.295 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.Android.dll.config'.
+03-07 23:01:28.296 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/FixTricks.Android/FixTricks.Android.config'.Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.AppCompat.dll [External]
+
+03-07 23:01:28.297 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.dll'.
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.CardView.dll [External]03-07 23:01:28.300 D/Mono    (10018): Image addref FixTricks[0x9c3aa240] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.dll[0x9c3c9900]: 2
+
+03-07 23:01:28.301 D/Mono    (10018): Prepared to set up assembly 'FixTricks' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.dll)
+03-07 23:01:28.301 D/Mono    (10018): Assembly FixTricks[0x9c3aa240] added to domain RootDomain, ref_count=1
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.MediaRouter.dll [External]03-07 23:01:28.303 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-FixTricks.dll.so" not found
+
+03-07 23:01:28.303 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/FixTricks.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-FixTricks.dll.so" not found
+03-07 23:01:28.306 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.dll'.
+03-07 23:01:28.307 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FixTricks.dll.config'.
+03-07 23:01:28.308 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/FixTricks/FixTricks.config'.
+03-07 23:01:28.310 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FormsViewGroup.dll'.
+03-07 23:01:28.312 D/Mono    (10018): Image addref FormsViewGroup[0x9c3aa0c0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FormsViewGroup.dll[0x9c3ca300]: 2Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.Palette.dll [External]
+
+03-07 23:01:28.312 D/Mono    (10018): Prepared to set up assembly 'FormsViewGroup' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FormsViewGroup.dll)
+03-07 23:01:28.312 D/Mono    (10018): Assembly FormsViewGroup[0x9c3aa0c0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.315 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FormsViewGroup.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-FormsViewGroup.dll.so" not found
+03-07 23:01:28.315 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/FormsViewGroup.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-FormsViewGroup.dll.so" not found
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.RecyclerView.dll [External]03-07 23:01:28.318 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FormsViewGroup.dll'.
+
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Vector.Drawable.dll [External]
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Core.dll [External]03-07 23:01:28.318 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/FormsViewGroup.dll.config'.
+
+03-07 23:01:28.318 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/FormsViewGroup/FormsViewGroup.config'.
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.Android.dll [External]03-07 23:01:28.319 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/HtmlAgilityPack.dll'.
+
+03-07 23:01:28.331 D/Mono    (10018): Image addref HtmlAgilityPack[0x9c3aa600] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/HtmlAgilityPack.dll[0x9c3cbc00]: 2Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.dll [External]
+
+03-07 23:01:28.331 D/Mono    (10018): Prepared to set up assembly 'HtmlAgilityPack' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/HtmlAgilityPack.dll)
+03-07 23:01:28.331 D/Mono    (10018): Assembly HtmlAgilityPack[0x9c3aa600] added to domain RootDomain, ref_count=1
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Xaml.dll [External]
+03-07 23:01:28.334 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/HtmlAgilityPack.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-HtmlAgilityPack.dll.so" not foundLoaded assembly: Mono.Android.dll [External]
+
+03-07 23:01:28.335 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/HtmlAgilityPack.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-HtmlAgilityPack.dll.so" not found
+Loaded assembly: Java.Interop.dll [External]03-07 23:01:28.340 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/HtmlAgilityPack.dll'.
+
+03-07 23:01:28.340 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/HtmlAgilityPack.dll.config'.
+03-07 23:01:28.340 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/HtmlAgilityPack/HtmlAgilityPack.config'.
+Loaded assembly: System.Runtime.dll [External]
+03-07 23:01:28.341 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Portable.Text.Encoding.dll'.
+03-07 23:01:28.342 D/Mono    (10018): Image addref Portable.Text.Encoding[0x9c3aa660] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Portable.Text.Encoding.dll[0x9c3cc600]: 2
+Resolved pending breakpoint for 'Android.Runtime.JNIEnv.RegisterJniNatives(System.IntPtr, int, System.IntPtr, System.IntPtr, int)' to [0x0](no debug symbols).03-07 23:01:28.343 D/Mono    (10018): Prepared to set up assembly 'Portable.Text.Encoding' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Portable.Text.Encoding.dll)
+
+03-07 23:01:28.343 D/Mono    (10018): Assembly Portable.Text.Encoding[0x9c3aa660] added to domain RootDomain, ref_count=1
+03-07 23:01:28.344 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Portable.Text.Encoding.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Portable.Text.Encoding.dll.so" not found
+Loaded assembly: System.Collections.Concurrent.dll [External]03-07 23:01:28.344 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Portable.Text.Encoding.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Portable.Text.Encoding.dll.so" not found
+
+03-07 23:01:28.345 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Portable.Text.Encoding.dll'.
+03-07 23:01:28.345 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Portable.Text.Encoding.dll.config'.
+03-07 23:01:28.345 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Portable.Text.Encoding/Portable.Text.Encoding.config'.
+03-07 23:01:28.345 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLite-net.dll'.
+03-07 23:01:28.346 D/Mono    (10018): Image addref SQLite-net[0x9c3aa6c0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLite-net.dll[0x9c3ccb00]: 2
+03-07 23:01:28.346 D/Mono    (10018): Prepared to set up assembly 'SQLite-net' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLite-net.dll)
+03-07 23:01:28.346 D/Mono    (10018): Assembly SQLite-net[0x9c3aa6c0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.347 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLite-net.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLite-net.dll.so" not found
+03-07 23:01:28.347 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/SQLite-net.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLite-net.dll.so" not found
+03-07 23:01:28.347 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLite-net.dll'.
+03-07 23:01:28.347 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLite-net.dll.config'.
+03-07 23:01:28.347 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/SQLite-net/SQLite-net.config'.
+03-07 23:01:28.348 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_green.dll'.
+03-07 23:01:28.348 D/Mono    (10018): Image addref SQLitePCLRaw.batteries_green[0x9c3aa7e0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_green.dll[0x9a46f500]: 2
+Loaded assembly: System.Threading.dll [External]03-07 23:01:28.348 D/Mono    (10018): Prepared to set up assembly 'SQLitePCLRaw.batteries_green' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_green.dll)
+
+03-07 23:01:28.348 D/Mono    (10018): Assembly SQLitePCLRaw.batteries_green[0x9c3aa7e0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.349 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_green.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLitePCLRaw.batteries_green.dll.so" not found
+Loaded assembly: System.Runtime.InteropServices.dll [External]03-07 23:01:28.349 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/SQLitePCLRaw.batteries_green.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLitePCLRaw.batteries_green.dll.so" not found
+
+03-07 23:01:28.350 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_green.dll'.
+03-07 23:01:28.350 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_green.dll.config'.
+03-07 23:01:28.350 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/SQLitePCLRaw.batteries_green/SQLitePCLRaw.batteries_green.config'.
+03-07 23:01:28.350 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_v2.dll'.
+03-07 23:01:28.351 D/Mono    (10018): Image addref SQLitePCLRaw.batteries_v2[0x9c3aa840] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_v2.dll[0x9a46fa00]: 2
+03-07 23:01:28.351 D/Mono    (10018): Prepared to set up assembly 'SQLitePCLRaw.batteries_v2' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_v2.dll)
+03-07 23:01:28.351 D/Mono    (10018): Assembly SQLitePCLRaw.batteries_v2[0x9c3aa840] added to domain RootDomain, ref_count=1
+03-07 23:01:28.383 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_v2.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLitePCLRaw.batteries_v2.dll.so" not found
+03-07 23:01:28.384 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/SQLitePCLRaw.batteries_v2.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLitePCLRaw.batteries_v2.dll.so" not found
+03-07 23:01:28.385 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_v2.dll'.
+03-07 23:01:28.385 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.batteries_v2.dll.config'.
+03-07 23:01:28.385 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/SQLitePCLRaw.batteries_v2/SQLitePCLRaw.batteries_v2.config'.
+03-07 23:01:28.387 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.core.dll'.
+03-07 23:01:28.389 D/Mono    (10018): Image addref SQLitePCLRaw.core[0x9c3aa960] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.core.dll[0x9a46ff00]: 2
+03-07 23:01:28.389 D/Mono    (10018): Prepared to set up assembly 'SQLitePCLRaw.core' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.core.dll)
+03-07 23:01:28.389 D/Mono    (10018): Assembly SQLitePCLRaw.core[0x9c3aa960] added to domain RootDomain, ref_count=1
+03-07 23:01:28.390 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.core.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLitePCLRaw.core.dll.so" not found
+03-07 23:01:28.390 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/SQLitePCLRaw.core.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLitePCLRaw.core.dll.so" not found
+03-07 23:01:28.391 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.core.dll'.
+03-07 23:01:28.391 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.core.dll.config'.
+03-07 23:01:28.391 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/SQLitePCLRaw.core/SQLitePCLRaw.core.config'.
+03-07 23:01:28.391 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.lib.e_sqlite3.dll'.
+Loaded assembly: System.Reflection.dll [External]03-07 23:01:28.391 D/Mono    (10018): Image addref SQLitePCLRaw.lib.e_sqlite3[0x9c3aaa20] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.lib.e_sqlite3.dll[0x9a470400]: 2
+
+03-07 23:01:28.391 D/Mono    (10018): Prepared to set up assembly 'SQLitePCLRaw.lib.e_sqlite3' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.lib.e_sqlite3.dll)
+03-07 23:01:28.391 D/Mono    (10018): Assembly SQLitePCLRaw.lib.e_sqlite3[0x9c3aaa20] added to domain RootDomain, ref_count=1
+03-07 23:01:28.392 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.lib.e_sqlite3.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLitePCLRaw.lib.e_sqlite3.dll.so" not found
+03-07 23:01:28.393 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/SQLitePCLRaw.lib.e_sqlite3.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLitePCLRaw.lib.e_sqlite3.dll.so" not found
+03-07 23:01:28.401 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.lib.e_sqlite3.dll'.
+03-07 23:01:28.401 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.lib.e_sqlite3.dll.config'.
+03-07 23:01:28.401 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/SQLitePCLRaw.lib.e_sqlite3/SQLitePCLRaw.lib.e_sqlite3.config'.
+03-07 23:01:28.402 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.provider.e_sqlite3.dll'.Loaded assembly: System.Collections.dll [External]
+
+03-07 23:01:28.402 D/Mono    (10018): Image addref SQLitePCLRaw.provider.e_sqlite3[0x9c3aaae0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.provider.e_sqlite3.dll[0x9a470900]: 2
+03-07 23:01:28.402 D/Mono    (10018): Prepared to set up assembly 'SQLitePCLRaw.provider.e_sqlite3' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.provider.e_sqlite3.dll)
+03-07 23:01:28.402 D/Mono    (10018): Assembly SQLitePCLRaw.provider.e_sqlite3[0x9c3aaae0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.404 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.provider.e_sqlite3.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLitePCLRaw.provider.e_sqlite3.dll.so" not found
+03-07 23:01:28.404 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/SQLitePCLRaw.provider.e_sqlite3.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-SQLitePCLRaw.provider.e_sqlite3.dll.so" not found
+03-07 23:01:28.404 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.provider.e_sqlite3.dll'.
+03-07 23:01:28.404 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/SQLitePCLRaw.provider.e_sqlite3.dll.config'.
+03-07 23:01:28.404 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/SQLitePCLRaw.provider.e_sqlite3/SQLitePCLRaw.provider.e_sqlite3.config'.
+03-07 23:01:28.405 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.Compression.Portable.dll'.
+03-07 23:01:28.405 D/Mono    (10018): Image addref Syncfusion.Compression.Portable[0x9c3aaba0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.Compression.Portable.dll[0x9a470e00]: 2
+03-07 23:01:28.405 D/Mono    (10018): Prepared to set up assembly 'Syncfusion.Compression.Portable' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.Compression.Portable.dll)
+03-07 23:01:28.405 D/Mono    (10018): Assembly Syncfusion.Compression.Portable[0x9c3aaba0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.406 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.Compression.Portable.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Syncfusion.Compression.Portable.dll.so" not found
+03-07 23:01:28.407 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Syncfusion.Compression.Portable.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Syncfusion.Compression.Portable.dll.so" not found
+03-07 23:01:28.407 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.Compression.Portable.dll'.
+03-07 23:01:28.407 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.Compression.Portable.dll.config'.
+03-07 23:01:28.407 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Syncfusion.Compression.Portable/Syncfusion.Compression.Portable.config'.
+03-07 23:01:28.407 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.XlsIO.Portable.dll'.
+03-07 23:01:28.408 D/Mono    (10018): Image addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.XlsIO.Portable.dll[0x9a471300]: 2
+03-07 23:01:28.409 D/Mono    (10018): Prepared to set up assembly 'Syncfusion.XlsIO.Portable' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.XlsIO.Portable.dll)
+03-07 23:01:28.409 D/Mono    (10018): Assembly Syncfusion.XlsIO.Portable[0x9c3aac60] added to domain RootDomain, ref_count=1
+03-07 23:01:28.409 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.XlsIO.Portable.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Syncfusion.XlsIO.Portable.dll.so" not found
+03-07 23:01:28.410 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Syncfusion.XlsIO.Portable.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Syncfusion.XlsIO.Portable.dll.so" not found
+03-07 23:01:28.410 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.XlsIO.Portable.dll'.
+03-07 23:01:28.410 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Syncfusion.XlsIO.Portable.dll.config'.
+03-07 23:01:28.410 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Syncfusion.XlsIO.Portable/Syncfusion.XlsIO.Portable.config'.
+03-07 23:01:28.411 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Animated.Vector.Drawable.dll'.
+03-07 23:01:28.411 D/Mono    (10018): Image addref Xamarin.Android.Support.Animated.Vector.Drawable[0x9c3aad20] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Animated.Vector.Drawable.dll[0x9a471800]: 2
+03-07 23:01:28.411 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.Animated.Vector.Drawable' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Animated.Vector.Drawable.dll)
+03-07 23:01:28.411 D/Mono    (10018): Assembly Xamarin.Android.Support.Animated.Vector.Drawable[0x9c3aad20] added to domain RootDomain, ref_count=1
+03-07 23:01:28.412 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Animated.Vector.Drawable.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Animated.Vector.Drawable.dll.so" not found
+03-07 23:01:28.412 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.Animated.Vector.Drawable.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Animated.Vector.Drawable.dll.so" not found
+03-07 23:01:28.412 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Animated.Vector.Drawable.dll'.
+03-07 23:01:28.412 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Animated.Vector.Drawable.dll.config'.
+03-07 23:01:28.413 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.Animated.Vector.Drawable/Xamarin.Android.Support.Animated.Vector.Drawable.config'.
+03-07 23:01:28.413 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Annotations.dll'.
+03-07 23:01:28.413 D/Mono    (10018): Image addref Xamarin.Android.Support.Annotations[0x9c3aade0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Annotations.dll[0x9a471d00]: 2
+03-07 23:01:28.413 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.Annotations' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Annotations.dll)
+03-07 23:01:28.413 D/Mono    (10018): Assembly Xamarin.Android.Support.Annotations[0x9c3aade0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.414 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Annotations.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Annotations.dll.so" not found
+03-07 23:01:28.414 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.Annotations.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Annotations.dll.so" not found
+03-07 23:01:28.414 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Annotations.dll'.
+03-07 23:01:28.415 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Annotations.dll.config'.
+03-07 23:01:28.415 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.Annotations/Xamarin.Android.Support.Annotations.config'.
+03-07 23:01:28.415 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Compat.dll'.
+03-07 23:01:28.416 D/Mono    (10018): Image addref Xamarin.Android.Support.Compat[0x9c3aaea0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Compat.dll[0x9a472200]: 2
+03-07 23:01:28.416 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.Compat' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Compat.dll)
+03-07 23:01:28.416 D/Mono    (10018): Assembly Xamarin.Android.Support.Compat[0x9c3aaea0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.417 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Compat.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Compat.dll.so" not found
+03-07 23:01:28.417 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.Compat.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Compat.dll.so" not found
+03-07 23:01:28.417 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Compat.dll'.
+03-07 23:01:28.417 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Compat.dll.config'.
+03-07 23:01:28.417 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.Compat/Xamarin.Android.Support.Compat.config'.
+03-07 23:01:28.418 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.UI.dll'.
+03-07 23:01:28.418 D/Mono    (10018): Image addref Xamarin.Android.Support.Core.UI[0x9c3aaf60] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.UI.dll[0x9a472700]: 2
+03-07 23:01:28.418 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.Core.UI' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.UI.dll)
+03-07 23:01:28.418 D/Mono    (10018): Assembly Xamarin.Android.Support.Core.UI[0x9c3aaf60] added to domain RootDomain, ref_count=1
+03-07 23:01:28.419 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.UI.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Core.UI.dll.so" not found
+03-07 23:01:28.420 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.Core.UI.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Core.UI.dll.so" not found
+03-07 23:01:28.420 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.UI.dll'.
+03-07 23:01:28.420 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.UI.dll.config'.
+03-07 23:01:28.421 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.Core.UI/Xamarin.Android.Support.Core.UI.config'.
+03-07 23:01:28.421 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.Utils.dll'.
+03-07 23:01:28.421 D/Mono    (10018): Image addref Xamarin.Android.Support.Core.Utils[0x9c3ab020] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.Utils.dll[0x9a472c00]: 2
+03-07 23:01:28.421 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.Core.Utils' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.Utils.dll)
+03-07 23:01:28.421 D/Mono    (10018): Assembly Xamarin.Android.Support.Core.Utils[0x9c3ab020] added to domain RootDomain, ref_count=1
+03-07 23:01:28.422 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.Utils.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Core.Utils.dll.so" not found
+03-07 23:01:28.423 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.Core.Utils.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Core.Utils.dll.so" not found
+03-07 23:01:28.423 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.Utils.dll'.
+03-07 23:01:28.423 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Core.Utils.dll.config'.
+03-07 23:01:28.423 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.Core.Utils/Xamarin.Android.Support.Core.Utils.config'.
+03-07 23:01:28.423 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Design.dll'.
+03-07 23:01:28.424 D/Mono    (10018): Image addref Xamarin.Android.Support.Design[0x9c3ab0e0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Design.dll[0x9a473100]: 2
+03-07 23:01:28.424 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.Design' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Design.dll)
+03-07 23:01:28.424 D/Mono    (10018): Assembly Xamarin.Android.Support.Design[0x9c3ab0e0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.425 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Design.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Design.dll.so" not found
+03-07 23:01:28.425 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.Design.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Design.dll.so" not found
+03-07 23:01:28.425 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Design.dll'.
+03-07 23:01:28.425 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Design.dll.config'.
+03-07 23:01:28.425 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.Design/Xamarin.Android.Support.Design.config'.
+03-07 23:01:28.426 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Fragment.dll'.
+03-07 23:01:28.426 D/Mono    (10018): Image addref Xamarin.Android.Support.Fragment[0x9c3ab1a0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Fragment.dll[0x9a473600]: 2
+03-07 23:01:28.426 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.Fragment' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Fragment.dll)
+03-07 23:01:28.426 D/Mono    (10018): Assembly Xamarin.Android.Support.Fragment[0x9c3ab1a0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.427 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Fragment.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Fragment.dll.so" not found
+03-07 23:01:28.427 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.Fragment.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Fragment.dll.so" not found
+03-07 23:01:28.427 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Fragment.dll'.
+03-07 23:01:28.427 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Fragment.dll.config'.
+03-07 23:01:28.427 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.Fragment/Xamarin.Android.Support.Fragment.config'.
+03-07 23:01:28.428 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Media.Compat.dll'.
+03-07 23:01:28.428 D/Mono    (10018): Image addref Xamarin.Android.Support.Media.Compat[0x9c3ab260] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Media.Compat.dll[0x9a473b00]: 2
+03-07 23:01:28.428 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.Media.Compat' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Media.Compat.dll)
+03-07 23:01:28.428 D/Mono    (10018): Assembly Xamarin.Android.Support.Media.Compat[0x9c3ab260] added to domain RootDomain, ref_count=1
+03-07 23:01:28.429 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Media.Compat.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Media.Compat.dll.so" not found
+03-07 23:01:28.429 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.Media.Compat.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Media.Compat.dll.so" not found
+03-07 23:01:28.430 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Media.Compat.dll'.
+03-07 23:01:28.430 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Media.Compat.dll.config'.
+03-07 23:01:28.430 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.Media.Compat/Xamarin.Android.Support.Media.Compat.config'.
+03-07 23:01:28.430 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Transition.dll'.
+03-07 23:01:28.431 D/Mono    (10018): Image addref Xamarin.Android.Support.Transition[0x9c3ab320] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Transition.dll[0x9a474000]: 2
+03-07 23:01:28.431 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.Transition' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Transition.dll)
+03-07 23:01:28.431 D/Mono    (10018): Assembly Xamarin.Android.Support.Transition[0x9c3ab320] added to domain RootDomain, ref_count=1
+03-07 23:01:28.431 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Transition.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Transition.dll.so" not found
+03-07 23:01:28.432 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.Transition.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Transition.dll.so" not found
+03-07 23:01:28.432 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Transition.dll'.
+03-07 23:01:28.432 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Transition.dll.config'.
+03-07 23:01:28.432 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.Transition/Xamarin.Android.Support.Transition.config'.
+03-07 23:01:28.432 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v4.dll'.
+03-07 23:01:28.434 D/Mono    (10018): Image addref Xamarin.Android.Support.v4[0x9c3ab3e0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v4.dll[0x9a474500]: 2
+03-07 23:01:28.434 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.v4' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v4.dll)
+03-07 23:01:28.435 D/Mono    (10018): Assembly Xamarin.Android.Support.v4[0x9c3ab3e0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.435 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v4.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v4.dll.so" not found
+03-07 23:01:28.436 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.v4.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v4.dll.so" not found
+03-07 23:01:28.437 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v4.dll'.
+03-07 23:01:28.437 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v4.dll.config'.
+03-07 23:01:28.438 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.v4/Xamarin.Android.Support.v4.config'.
+03-07 23:01:28.438 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.AppCompat.dll'.
+03-07 23:01:28.440 D/Mono    (10018): Image addref Xamarin.Android.Support.v7.AppCompat[0x9c3ab4a0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.AppCompat.dll[0x9a474a00]: 2
+03-07 23:01:28.440 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.v7.AppCompat' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.AppCompat.dll)
+03-07 23:01:28.440 D/Mono    (10018): Assembly Xamarin.Android.Support.v7.AppCompat[0x9c3ab4a0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.442 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.AppCompat.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v7.AppCompat.dll.so" not found
+03-07 23:01:28.443 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.v7.AppCompat.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v7.AppCompat.dll.so" not found
+03-07 23:01:28.444 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.AppCompat.dll'.
+03-07 23:01:28.444 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.AppCompat.dll.config'.
+03-07 23:01:28.444 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.v7.AppCompat/Xamarin.Android.Support.v7.AppCompat.config'.
+03-07 23:01:28.444 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.CardView.dll'.
+03-07 23:01:28.445 D/Mono    (10018): Image addref Xamarin.Android.Support.v7.CardView[0x9c3ab560] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.CardView.dll[0x9a474f00]: 2
+03-07 23:01:28.445 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.v7.CardView' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.CardView.dll)
+03-07 23:01:28.445 D/Mono    (10018): Assembly Xamarin.Android.Support.v7.CardView[0x9c3ab560] added to domain RootDomain, ref_count=1
+03-07 23:01:28.447 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.CardView.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v7.CardView.dll.so" not found
+03-07 23:01:28.448 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.v7.CardView.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v7.CardView.dll.so" not found
+03-07 23:01:28.449 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.CardView.dll'.
+03-07 23:01:28.449 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.CardView.dll.config'.
+03-07 23:01:28.449 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.v7.CardView/Xamarin.Android.Support.v7.CardView.config'.
+03-07 23:01:28.451 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.MediaRouter.dll'.
+03-07 23:01:28.453 D/Mono    (10018): Image addref Xamarin.Android.Support.v7.MediaRouter[0x9c3ab620] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.MediaRouter.dll[0x9a475400]: 2
+03-07 23:01:28.453 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.v7.MediaRouter' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.MediaRouter.dll)
+03-07 23:01:28.453 D/Mono    (10018): Assembly Xamarin.Android.Support.v7.MediaRouter[0x9c3ab620] added to domain RootDomain, ref_count=1
+03-07 23:01:28.454 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.MediaRouter.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v7.MediaRouter.dll.so" not found
+03-07 23:01:28.454 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.v7.MediaRouter.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v7.MediaRouter.dll.so" not found
+03-07 23:01:28.455 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.MediaRouter.dll'.
+03-07 23:01:28.455 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.MediaRouter.dll.config'.
+03-07 23:01:28.455 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.v7.MediaRouter/Xamarin.Android.Support.v7.MediaRouter.config'.
+03-07 23:01:28.455 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.Palette.dll'.
+03-07 23:01:28.456 D/Mono    (10018): Image addref Xamarin.Android.Support.v7.Palette[0x9c3ab6e0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.Palette.dll[0x9a475900]: 2
+03-07 23:01:28.456 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.v7.Palette' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.Palette.dll)
+03-07 23:01:28.456 D/Mono    (10018): Assembly Xamarin.Android.Support.v7.Palette[0x9c3ab6e0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.459 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.Palette.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v7.Palette.dll.so" not found
+03-07 23:01:28.460 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.v7.Palette.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v7.Palette.dll.so" not found
+03-07 23:01:28.460 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.Palette.dll'.
+03-07 23:01:28.460 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.Palette.dll.config'.
+03-07 23:01:28.460 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.v7.Palette/Xamarin.Android.Support.v7.Palette.config'.
+03-07 23:01:28.460 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.RecyclerView.dll'.
+03-07 23:01:28.462 D/Mono    (10018): Image addref Xamarin.Android.Support.v7.RecyclerView[0x9c3ab7a0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.RecyclerView.dll[0x9a475e00]: 2
+03-07 23:01:28.462 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.v7.RecyclerView' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.RecyclerView.dll)
+03-07 23:01:28.462 D/Mono    (10018): Assembly Xamarin.Android.Support.v7.RecyclerView[0x9c3ab7a0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.464 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.RecyclerView.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v7.RecyclerView.dll.so" not found
+03-07 23:01:28.464 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.v7.RecyclerView.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.v7.RecyclerView.dll.so" not found
+03-07 23:01:28.465 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.RecyclerView.dll'.
+03-07 23:01:28.465 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.v7.RecyclerView.dll.config'.
+03-07 23:01:28.465 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.v7.RecyclerView/Xamarin.Android.Support.v7.RecyclerView.config'.
+Loaded assembly: System.Linq.dll [External]03-07 23:01:28.466 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Vector.Drawable.dll'.
+
+03-07 23:01:28.466 D/Mono    (10018): Image addref Xamarin.Android.Support.Vector.Drawable[0x9c3ab860] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Vector.Drawable.dll[0x9a476300]: 2
+03-07 23:01:28.466 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Android.Support.Vector.Drawable' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Vector.Drawable.dll)
+03-07 23:01:28.467 D/Mono    (10018): Assembly Xamarin.Android.Support.Vector.Drawable[0x9c3ab860] added to domain RootDomain, ref_count=1
+03-07 23:01:28.469 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Vector.Drawable.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Vector.Drawable.dll.so" not found
+03-07 23:01:28.470 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Android.Support.Vector.Drawable.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Android.Support.Vector.Drawable.dll.so" not found
+03-07 23:01:28.471 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Vector.Drawable.dll'.
+03-07 23:01:28.471 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Android.Support.Vector.Drawable.dll.config'.
+03-07 23:01:28.471 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Android.Support.Vector.Drawable/Xamarin.Android.Support.Vector.Drawable.config'.
+03-07 23:01:28.471 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Core.dll'.
+03-07 23:01:28.472 D/Mono    (10018): Image addref Xamarin.Forms.Core[0x9c3ab920] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Core.dll[0x9a476800]: 2
+03-07 23:01:28.472 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Forms.Core' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Core.dll)
+03-07 23:01:28.472 D/Mono    (10018): Assembly Xamarin.Forms.Core[0x9c3ab920] added to domain RootDomain, ref_count=1
+03-07 23:01:28.473 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Core.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Forms.Core.dll.so" not found
+03-07 23:01:28.474 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Forms.Core.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Forms.Core.dll.so" not found
+03-07 23:01:28.475 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Core.dll'.
+03-07 23:01:28.475 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Core.dll.config'.
+03-07 23:01:28.475 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Forms.Core/Xamarin.Forms.Core.config'.Loaded assembly: System.Core.dll [External]
+
+03-07 23:01:28.476 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.Android.dll'.
+03-07 23:01:28.477 D/Mono    (10018): Image addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.Android.dll[0x9a476d00]: 2
+03-07 23:01:28.477 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Forms.Platform.Android' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.Android.dll)
+03-07 23:01:28.478 D/Mono    (10018): Assembly Xamarin.Forms.Platform.Android[0x9c3ab9e0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.478 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.Android.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Forms.Platform.Android.dll.so" not found
+03-07 23:01:28.479 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Forms.Platform.Android.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Forms.Platform.Android.dll.so" not found
+03-07 23:01:28.515 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.Android.dll'.
+03-07 23:01:28.515 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.Android.dll.config'.
+03-07 23:01:28.516 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Forms.Platform.Android/Xamarin.Forms.Platform.Android.config'.
+03-07 23:01:28.518 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.dll'.
+03-07 23:01:28.520 D/Mono    (10018): Image addref Xamarin.Forms.Platform[0x9c3abaa0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.dll[0x9a477200]: 2
+03-07 23:01:28.520 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Forms.Platform' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.dll)
+03-07 23:01:28.520 D/Mono    (10018): Assembly Xamarin.Forms.Platform[0x9c3abaa0] added to domain RootDomain, ref_count=1
+03-07 23:01:28.522 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Forms.Platform.dll.so" not found
+03-07 23:01:28.522 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Forms.Platform.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Forms.Platform.dll.so" not found
+03-07 23:01:28.523 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.dll'.
+03-07 23:01:28.523 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Platform.dll.config'.
+03-07 23:01:28.524 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Forms.Platform/Xamarin.Forms.Platform.config'.
+03-07 23:01:28.526 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Xaml.dll'.
+03-07 23:01:28.529 D/Mono    (10018): Image addref Xamarin.Forms.Xaml[0x9c3abb60] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Xaml.dll[0x9a477700]: 2
+03-07 23:01:28.529 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Forms.Xaml' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Xaml.dll)
+03-07 23:01:28.530 D/Mono    (10018): Assembly Xamarin.Forms.Xaml[0x9c3abb60] added to domain RootDomain, ref_count=1
+03-07 23:01:28.534 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Xaml.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Forms.Xaml.dll.so" not found
+03-07 23:01:28.534 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Forms.Xaml.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Forms.Xaml.dll.so" not found
+03-07 23:01:28.568 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Xaml.dll'.
+03-07 23:01:28.568 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Forms.Xaml.dll.config'.
+03-07 23:01:28.569 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Forms.Xaml/Xamarin.Forms.Xaml.config'.
+03-07 23:01:28.569 W/monodroid-gc(10018): GREF GC Threshold: 46080
+Loaded assembly: System.Runtime.Extensions.dll [External]03-07 23:01:28.570 D/Mono    (10018): Image addref Mono.Android[0x9c3abc20] -> Mono.Android.dll[0x9a477c00]: 2
+
+03-07 23:01:28.570 D/Mono    (10018): Prepared to set up assembly 'Mono.Android' (Mono.Android.dll)
+03-07 23:01:28.570 D/Mono    (10018): Assembly Mono.Android[0x9c3abc20] added to domain RootDomain, ref_count=1
+03-07 23:01:28.572 D/Mono    (10018): AOT: image 'Mono.Android.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Mono.Android.dll.so" not found
+03-07 23:01:28.572 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Mono.Android.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Mono.Android.dll.so" not found
+03-07 23:01:28.573 D/Mono    (10018): Config attempting to parse: 'Mono.Android.dll.config'.
+03-07 23:01:28.573 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Mono.Android/Mono.Android.config'.
+03-07 23:01:28.578 D/Mono    (10018): Assembly Ref addref Mono.Android[0x9c3abc20] -> mscorlib[0x9c3aa060]: 2
+03-07 23:01:28.579 D/Mono    (10018): Image addref Java.Interop[0x9c3abd40] -> Java.Interop.dll[0x9a478100]: 2
+03-07 23:01:28.579 D/Mono    (10018): Prepared to set up assembly 'Java.Interop' (Java.Interop.dll)
+03-07 23:01:28.579 D/Mono    (10018): Assembly Java.Interop[0x9c3abd40] added to domain RootDomain, ref_count=1
+03-07 23:01:28.581 D/Mono    (10018): AOT: image 'Java.Interop.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Java.Interop.dll.so" not found
+03-07 23:01:28.582 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Java.Interop.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Java.Interop.dll.so" not found
+03-07 23:01:28.582 D/Mono    (10018): Config attempting to parse: 'Java.Interop.dll.config'.
+03-07 23:01:28.582 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Java.Interop/Java.Interop.config'.
+Loaded assembly: System.Reflection.Extensions.dll [External]
+03-07 23:01:28.582 D/Mono    (10018): Assembly Ref addref Mono.Android[0x9c3abc20] -> Java.Interop[0x9c3abd40]: 2
+03-07 23:01:28.582 D/Mono    (10018): Image addref System.Runtime[0x9c3abc80] -> System.Runtime.dll[0x9a478600]: 2
+03-07 23:01:28.582 D/Mono    (10018): Prepared to set up assembly 'System.Runtime' (System.Runtime.dll)
+03-07 23:01:28.582 D/Mono    (10018): Assembly System.Runtime[0x9c3abc80] added to domain RootDomain, ref_count=1
+03-07 23:01:28.584 D/Mono    (10018): AOT: image 'System.Runtime.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Runtime.dll.so" not found
+03-07 23:01:28.584 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Runtime.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Runtime.dll.so" not found
+03-07 23:01:28.585 D/Mono    (10018): Config attempting to parse: 'System.Runtime.dll.config'.
+03-07 23:01:28.585 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime/System.Runtime.config'.
+03-07 23:01:28.585 D/Mono    (10018): Assembly Ref addref Java.Interop[0x9c3abd40] -> System.Runtime[0x9c3abc80]: 2
+03-07 23:01:28.585 D/Mono    (10018): Assembly Ref addref System.Runtime[0x9c3abc80] -> mscorlib[0x9c3aa060]: 3
+03-07 23:01:28.587 W/monodroid(10018): Calling into managed runtime init
+03-07 23:01:30.251 D/Mono    (10018): Image addref System.Collections.Concurrent[0x9c3abda0] -> System.Collections.Concurrent.dll[0x86413500]: 2
+03-07 23:01:30.251 D/Mono    (10018): Prepared to set up assembly 'System.Collections.Concurrent' (System.Collections.Concurrent.dll)
+03-07 23:01:30.251 D/Mono    (10018): Assembly System.Collections.Concurrent[0x9c3abda0] added to domain RootDomain, ref_count=1
+03-07 23:01:30.252 D/Mono    (10018): AOT: image 'System.Collections.Concurrent.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Collections.Concurrent.dll.so" not found
+03-07 23:01:30.253 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Collections.Concurrent.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Collections.Concurrent.dll.so" not found
+03-07 23:01:30.253 D/Mono    (10018): Config attempting to parse: 'System.Collections.Concurrent.dll.config'.
+03-07 23:01:30.253 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Collections.Concurrent/System.Collections.Concurrent.config'.
+03-07 23:01:30.253 D/Mono    (10018): Assembly Ref addref Java.Interop[0x9c3abd40] -> System.Collections.Concurrent[0x9c3abda0]: 2
+03-07 23:01:30.253 D/Mono    (10018): Assembly Ref addref System.Collections.Concurrent[0x9c3abda0] -> mscorlib[0x9c3aa060]: 4
+03-07 23:01:30.422 D/Mono    (10018): Image addref System.Threading[0x9c3abe60] -> System.Threading.dll[0x86413a00]: 2
+03-07 23:01:30.422 D/Mono    (10018): Prepared to set up assembly 'System.Threading' (System.Threading.dll)
+03-07 23:01:30.422 D/Mono    (10018): Assembly System.Threading[0x9c3abe60] added to domain RootDomain, ref_count=1
+03-07 23:01:30.424 D/Mono    (10018): AOT: image 'System.Threading.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Threading.dll.so" not found
+03-07 23:01:30.424 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Threading.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Threading.dll.so" not found
+03-07 23:01:30.424 D/Mono    (10018): Config attempting to parse: 'System.Threading.dll.config'.
+03-07 23:01:30.424 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Threading/System.Threading.config'.
+03-07 23:01:30.424 D/Mono    (10018): Assembly Ref addref Java.Interop[0x9c3abd40] -> System.Threading[0x9c3abe60]: 2
+03-07 23:01:30.425 D/Mono    (10018): Assembly Ref addref System.Threading[0x9c3abe60] -> mscorlib[0x9c3aa060]: 5
+03-07 23:01:30.469 D/Mono    (10018): Image addref System.Runtime.InteropServices[0x9c3abfe0] -> System.Runtime.InteropServices.dll[0x86413f00]: 2
+03-07 23:01:30.469 D/Mono    (10018): Prepared to set up assembly 'System.Runtime.InteropServices' (System.Runtime.InteropServices.dll)
+03-07 23:01:30.469 D/Mono    (10018): Assembly System.Runtime.InteropServices[0x9c3abfe0] added to domain RootDomain, ref_count=1
+03-07 23:01:30.470 D/Mono    (10018): AOT: image 'System.Runtime.InteropServices.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Runtime.InteropServices.dll.so" not found
+03-07 23:01:30.471 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Runtime.InteropServices.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Runtime.InteropServices.dll.so" not found
+03-07 23:01:30.472 D/Mono    (10018): Config attempting to parse: 'System.Runtime.InteropServices.dll.config'.
+03-07 23:01:30.472 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime.InteropServices/System.Runtime.InteropServices.config'.
+03-07 23:01:30.472 D/Mono    (10018): Assembly Ref addref Java.Interop[0x9c3abd40] -> System.Runtime.InteropServices[0x9c3abfe0]: 2
+03-07 23:01:30.473 D/Mono    (10018): Assembly Ref addref System.Runtime.InteropServices[0x9c3abfe0] -> mscorlib[0x9c3aa060]: 6
+03-07 23:01:30.580 D/Mono    (10018): DllImport attempting to load: '__Internal'.
+03-07 23:01:30.581 D/Mono    (10018): DllImport loaded library '(null)'.
+03-07 23:01:30.581 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.581 D/Mono    (10018): Searching for 'java_interop_jnienv_get_java_vm'.
+03-07 23:01:30.581 D/Mono    (10018): Probing 'java_interop_jnienv_get_java_vm'.
+03-07 23:01:30.581 D/Mono    (10018): Found as 'java_interop_jnienv_get_java_vm'.
+03-07 23:01:30.656 D/Mono    (10018): DllImport attempting to load: '__Internal'.
+03-07 23:01:30.656 D/Mono    (10018): DllImport loaded library '(null)'.
+03-07 23:01:30.656 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.656 D/Mono    (10018): Searching for '_monodroid_gref_log_new'.
+03-07 23:01:30.656 D/Mono    (10018): Probing '_monodroid_gref_log_new'.
+03-07 23:01:30.656 D/Mono    (10018): Found as '_monodroid_gref_log_new'.
+03-07 23:01:30.661 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.661 D/Mono    (10018): Searching for 'java_interop_jnienv_new_global_ref'.
+03-07 23:01:30.661 D/Mono    (10018): Probing 'java_interop_jnienv_new_global_ref'.
+03-07 23:01:30.661 D/Mono    (10018): Found as 'java_interop_jnienv_new_global_ref'.
+03-07 23:01:30.667 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.667 D/Mono    (10018): Searching for '_monodroid_gref_get'.
+03-07 23:01:30.667 D/Mono    (10018): Probing '_monodroid_gref_get'.
+03-07 23:01:30.667 D/Mono    (10018): Found as '_monodroid_gref_get'.
+03-07 23:01:30.737 D/Mono    (10018): Image addref System.Reflection[0x9c3abf80] -> System.Reflection.dll[0x86415300]: 2
+03-07 23:01:30.737 D/Mono    (10018): Prepared to set up assembly 'System.Reflection' (System.Reflection.dll)
+03-07 23:01:30.737 D/Mono    (10018): Assembly System.Reflection[0x9c3abf80] added to domain RootDomain, ref_count=1
+03-07 23:01:30.738 D/Mono    (10018): AOT: image 'System.Reflection.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Reflection.dll.so" not found
+03-07 23:01:30.739 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Reflection.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Reflection.dll.so" not found
+03-07 23:01:30.739 D/Mono    (10018): Config attempting to parse: 'System.Reflection.dll.config'.
+03-07 23:01:30.739 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Reflection/System.Reflection.config'.
+03-07 23:01:30.739 D/Mono    (10018): Assembly Ref addref Java.Interop[0x9c3abd40] -> System.Reflection[0x9c3abf80]: 2
+03-07 23:01:30.739 D/Mono    (10018): Assembly Ref addref System.Reflection[0x9c3abf80] -> mscorlib[0x9c3aa060]: 7
+03-07 23:01:30.757 D/Mono    (10018): Image addref System.Collections[0x9c3abe00] -> System.Collections.dll[0x86414e00]: 2
+03-07 23:01:30.757 D/Mono    (10018): Prepared to set up assembly 'System.Collections' (System.Collections.dll)
+03-07 23:01:30.757 D/Mono    (10018): Assembly System.Collections[0x9c3abe00] added to domain RootDomain, ref_count=1
+03-07 23:01:30.759 D/Mono    (10018): AOT: image 'System.Collections.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Collections.dll.so" not found
+03-07 23:01:30.759 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Collections.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Collections.dll.so" not found
+03-07 23:01:30.759 D/Mono    (10018): Config attempting to parse: 'System.Collections.dll.config'.
+03-07 23:01:30.759 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Collections/System.Collections.config'.
+03-07 23:01:30.759 D/Mono    (10018): Assembly Ref addref Java.Interop[0x9c3abd40] -> System.Collections[0x9c3abe00]: 2
+03-07 23:01:30.759 D/Mono    (10018): Assembly Ref addref System.Collections[0x9c3abe00] -> mscorlib[0x9c3aa060]: 8
+03-07 23:01:30.838 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.838 D/Mono    (10018): Searching for 'java_interop_jnienv_find_class'.
+03-07 23:01:30.838 D/Mono    (10018): Probing 'java_interop_jnienv_find_class'.
+03-07 23:01:30.838 D/Mono    (10018): Found as 'java_interop_jnienv_find_class'.
+03-07 23:01:30.838 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.838 D/Mono    (10018): Searching for 'java_interop_jnienv_exception_clear'.
+03-07 23:01:30.838 D/Mono    (10018): Probing 'java_interop_jnienv_exception_clear'.
+03-07 23:01:30.838 D/Mono    (10018): Found as 'java_interop_jnienv_exception_clear'.
+03-07 23:01:30.839 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.839 D/Mono    (10018): Searching for 'java_interop_jnienv_call_object_method_a'.
+03-07 23:01:30.839 D/Mono    (10018): Probing 'java_interop_jnienv_call_object_method_a'.
+03-07 23:01:30.839 D/Mono    (10018): Found as 'java_interop_jnienv_call_object_method_a'.
+03-07 23:01:30.839 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.839 D/Mono    (10018): Searching for 'java_interop_jnienv_delete_local_ref'.
+03-07 23:01:30.839 D/Mono    (10018): Probing 'java_interop_jnienv_delete_local_ref'.
+03-07 23:01:30.839 D/Mono    (10018): Found as 'java_interop_jnienv_delete_local_ref'.
+03-07 23:01:30.854 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.854 D/Mono    (10018): Searching for '_monodroid_lref_log_new'.
+03-07 23:01:30.855 D/Mono    (10018): Probing '_monodroid_lref_log_new'.
+03-07 23:01:30.855 D/Mono    (10018): Found as '_monodroid_lref_log_new'.
+03-07 23:01:30.872 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.872 D/Mono    (10018): Searching for '_monodroid_lref_log_delete'.
+03-07 23:01:30.872 D/Mono    (10018): Probing '_monodroid_lref_log_delete'.
+03-07 23:01:30.872 D/Mono    (10018): Found as '_monodroid_lref_log_delete'.
+03-07 23:01:30.885 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.885 D/Mono    (10018): Searching for 'java_interop_jnienv_get_method_id'.
+03-07 23:01:30.885 D/Mono    (10018): Probing 'java_interop_jnienv_get_method_id'.
+03-07 23:01:30.885 D/Mono    (10018): Found as 'java_interop_jnienv_get_method_id'.
+03-07 23:01:30.895 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.895 D/Mono    (10018): Searching for '_monodroid_gref_log_delete'.
+03-07 23:01:30.895 D/Mono    (10018): Probing '_monodroid_gref_log_delete'.
+03-07 23:01:30.895 D/Mono    (10018): Found as '_monodroid_gref_log_delete'.
+03-07 23:01:30.901 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.901 D/Mono    (10018): Searching for 'java_interop_jnienv_delete_global_ref'.
+03-07 23:01:30.901 D/Mono    (10018): Probing 'java_interop_jnienv_delete_global_ref'.
+03-07 23:01:30.901 D/Mono    (10018): Found as 'java_interop_jnienv_delete_global_ref'.
+03-07 23:01:30.916 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.916 D/Mono    (10018): Searching for 'java_interop_jnienv_get_static_method_id'.
+03-07 23:01:30.916 D/Mono    (10018): Probing 'java_interop_jnienv_get_static_method_id'.
+03-07 23:01:30.917 D/Mono    (10018): Found as 'java_interop_jnienv_get_static_method_id'.
+03-07 23:01:30.934 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.934 D/Mono    (10018): Searching for 'java_interop_jnienv_call_static_object_method_a'.
+03-07 23:01:30.934 D/Mono    (10018): Probing 'java_interop_jnienv_call_static_object_method_a'.
+03-07 23:01:30.934 D/Mono    (10018): Found as 'java_interop_jnienv_call_static_object_method_a'.
+03-07 23:01:30.973 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:30.973 D/Mono    (10018): Searching for '_monodroid_get_identity_hash_code'.
+03-07 23:01:30.973 D/Mono    (10018): Probing '_monodroid_get_identity_hash_code'.
+03-07 23:01:30.973 D/Mono    (10018): Found as '_monodroid_get_identity_hash_code'.
+03-07 23:01:31.018 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.018 D/Mono    (10018): Searching for 'java_interop_jnienv_get_object_class'.
+03-07 23:01:31.018 D/Mono    (10018): Probing 'java_interop_jnienv_get_object_class'.
+03-07 23:01:31.018 D/Mono    (10018): Found as 'java_interop_jnienv_get_object_class'.
+03-07 23:01:31.027 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.027 D/Mono    (10018): Searching for 'java_interop_jnienv_call_object_method'.
+03-07 23:01:31.027 D/Mono    (10018): Probing 'java_interop_jnienv_call_object_method'.
+03-07 23:01:31.027 D/Mono    (10018): Found as 'java_interop_jnienv_call_object_method'.
+03-07 23:01:31.036 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.036 D/Mono    (10018): Searching for 'java_interop_jnienv_get_string_length'.
+03-07 23:01:31.036 D/Mono    (10018): Probing 'java_interop_jnienv_get_string_length'.
+03-07 23:01:31.036 D/Mono    (10018): Found as 'java_interop_jnienv_get_string_length'.
+03-07 23:01:31.039 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.039 D/Mono    (10018): Searching for 'java_interop_jnienv_get_string_chars'.
+03-07 23:01:31.039 D/Mono    (10018): Probing 'java_interop_jnienv_get_string_chars'.
+03-07 23:01:31.039 D/Mono    (10018): Found as 'java_interop_jnienv_get_string_chars'.
+03-07 23:01:31.051 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.051 D/Mono    (10018): Searching for 'java_interop_jnienv_release_string_chars'.
+03-07 23:01:31.051 D/Mono    (10018): Probing 'java_interop_jnienv_release_string_chars'.
+03-07 23:01:31.051 D/Mono    (10018): Found as 'java_interop_jnienv_release_string_chars'.
+03-07 23:01:31.071 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.071 D/Mono    (10018): Searching for 'monodroid_typemap_java_to_managed'.
+03-07 23:01:31.071 D/Mono    (10018): Probing 'monodroid_typemap_java_to_managed'.
+03-07 23:01:31.071 D/Mono    (10018): Found as 'monodroid_typemap_java_to_managed'.
+03-07 23:01:31.169 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.169 D/Mono    (10018): Searching for 'java_interop_jnienv_get_superclass'.
+03-07 23:01:31.170 D/Mono    (10018): Probing 'java_interop_jnienv_get_superclass'.
+03-07 23:01:31.170 D/Mono    (10018): Found as 'java_interop_jnienv_get_superclass'.
+03-07 23:01:31.308 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.308 D/Mono    (10018): Searching for 'java_interop_jnienv_is_instance_of'.
+03-07 23:01:31.308 D/Mono    (10018): Probing 'java_interop_jnienv_is_instance_of'.
+03-07 23:01:31.308 D/Mono    (10018): Found as 'java_interop_jnienv_is_instance_of'.
+03-07 23:01:31.315 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.315 D/Mono    (10018): Searching for '_monodroid_gref_log'.
+03-07 23:01:31.315 D/Mono    (10018): Probing '_monodroid_gref_log'.
+03-07 23:01:31.315 D/Mono    (10018): Found as '_monodroid_gref_log'.
+03-07 23:01:31.418 D/Mono    (10018): Image addref System.Linq[0x9c3ac460] -> System.Linq.dll[0x86415800]: 2
+03-07 23:01:31.418 D/Mono    (10018): Prepared to set up assembly 'System.Linq' (System.Linq.dll)
+03-07 23:01:31.418 D/Mono    (10018): Assembly System.Linq[0x9c3ac460] added to domain RootDomain, ref_count=1
+03-07 23:01:31.419 D/Mono    (10018): AOT: image 'System.Linq.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Linq.dll.so" not found
+03-07 23:01:31.420 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Linq.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Linq.dll.so" not found
+03-07 23:01:31.420 D/Mono    (10018): Config attempting to parse: 'System.Linq.dll.config'.
+03-07 23:01:31.420 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Linq/System.Linq.config'.
+03-07 23:01:31.420 D/Mono    (10018): Assembly Ref addref Java.Interop[0x9c3abd40] -> System.Linq[0x9c3ac460]: 2
+03-07 23:01:31.425 D/Mono    (10018): Image addref System.Core[0x9c3ac580] -> System.Core.dll[0x86414400]: 2
+03-07 23:01:31.425 D/Mono    (10018): Prepared to set up assembly 'System.Core' (System.Core.dll)
+03-07 23:01:31.425 D/Mono    (10018): Assembly System.Core[0x9c3ac580] added to domain RootDomain, ref_count=1
+03-07 23:01:31.426 D/Mono    (10018): AOT: image 'System.Core.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Core.dll.so" not found
+03-07 23:01:31.426 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Core.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Core.dll.so" not found
+03-07 23:01:31.427 D/Mono    (10018): Config attempting to parse: 'System.Core.dll.config'.
+03-07 23:01:31.427 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Core/System.Core.config'.
+03-07 23:01:31.427 D/Mono    (10018): Assembly Ref addref System.Linq[0x9c3ac460] -> System.Core[0x9c3ac580]: 2
+03-07 23:01:31.427 D/Mono    (10018): Assembly Ref addref System.Core[0x9c3ac580] -> mscorlib[0x9c3aa060]: 9
+03-07 23:01:31.467 D/Mono    (10018): Image addref System.Runtime.Extensions[0x9c3ac5e0] -> System.Runtime.Extensions.dll[0x86414900]: 2
+03-07 23:01:31.467 D/Mono    (10018): Prepared to set up assembly 'System.Runtime.Extensions' (System.Runtime.Extensions.dll)
+03-07 23:01:31.467 D/Mono    (10018): Assembly System.Runtime.Extensions[0x9c3ac5e0] added to domain RootDomain, ref_count=1
+03-07 23:01:31.468 D/Mono    (10018): AOT: image 'System.Runtime.Extensions.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Runtime.Extensions.dll.so" not found
+03-07 23:01:31.469 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Runtime.Extensions.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Runtime.Extensions.dll.so" not found
+03-07 23:01:31.469 D/Mono    (10018): Config attempting to parse: 'System.Runtime.Extensions.dll.config'.
+03-07 23:01:31.469 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime.Extensions/System.Runtime.Extensions.config'.
+03-07 23:01:31.470 D/Mono    (10018): Assembly Ref addref Java.Interop[0x9c3abd40] -> System.Runtime.Extensions[0x9c3ac5e0]: 2
+03-07 23:01:31.470 D/Mono    (10018): Assembly Ref addref System.Runtime.Extensions[0x9c3ac5e0] -> mscorlib[0x9c3aa060]: 10
+03-07 23:01:31.497 D/Mono    (10018): Image addref System.Reflection.Extensions[0x9c3ac760] -> System.Reflection.Extensions.dll[0x86416200]: 2
+03-07 23:01:31.497 D/Mono    (10018): Prepared to set up assembly 'System.Reflection.Extensions' (System.Reflection.Extensions.dll)
+03-07 23:01:31.497 D/Mono    (10018): Assembly System.Reflection.Extensions[0x9c3ac760] added to domain RootDomain, ref_count=1
+03-07 23:01:31.498 D/Mono    (10018): AOT: image 'System.Reflection.Extensions.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Reflection.Extensions.dll.so" not found
+03-07 23:01:31.498 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Reflection.Extensions.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Reflection.Extensions.dll.so" not found
+03-07 23:01:31.498 D/Mono    (10018): Config attempting to parse: 'System.Reflection.Extensions.dll.config'.
+03-07 23:01:31.498 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Reflection.Extensions/System.Reflection.Extensions.config'.
+03-07 23:01:31.498 D/Mono    (10018): Assembly Ref addref Java.Interop[0x9c3abd40] -> System.Reflection.Extensions[0x9c3ac760]: 2
+03-07 23:01:31.498 D/Mono    (10018): Assembly Ref addref System.Reflection.Extensions[0x9c3ac760] -> mscorlib[0x9c3aa060]: 11
+03-07 23:01:31.589 D/Mono    (10018): Assembly Ref addref Mono.Android[0x9c3abc20] -> System.Core[0x9c3ac580]: 3
+03-07 23:01:31.592 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.592 D/Mono    (10018): Searching for 'monodroid_typemap_managed_to_java'.
+03-07 23:01:31.592 D/Mono    (10018): Probing 'monodroid_typemap_managed_to_java'.
+03-07 23:01:31.593 D/Mono    (10018): Found as 'monodroid_typemap_managed_to_java'.
+03-07 23:01:31.669 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:31.669 D/Mono    (10018): Searching for 'java_interop_jnienv_alloc_object'.
+03-07 23:01:31.669 D/Mono    (10018): Probing 'java_interop_jnienv_alloc_object'.
+03-07 23:01:31.669 D/Mono    (10018): Found as 'java_interop_jnienv_alloc_object'.
+03-07 23:01:31.797 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.dll'.
+03-07 23:01:31.798 D/Mono    (10018): Image addref Xamarin.Interactive[0x9c3ac820] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.dll[0x86416700]: 2
+03-07 23:01:31.798 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Interactive' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.dll)
+03-07 23:01:31.798 D/Mono    (10018): Assembly Xamarin.Interactive[0x9c3ac820] added to domain RootDomain, ref_count=1
+Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.dll [External]03-07 23:01:31.799 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Interactive.dll.so" not found
+
+03-07 23:01:31.800 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Interactive.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Interactive.dll.so" not found
+03-07 23:01:31.800 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.dll'.
+03-07 23:01:31.800 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.dll.config'.
+03-07 23:01:31.800 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Interactive/Xamarin.Interactive.config'.Loaded assembly: /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.Android.dll [External]
+
+03-07 23:01:31.821 D/Mono    (10018): Assembly Loader probing location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.Android.dll'.
+03-07 23:01:31.821 D/Mono    (10018): Image addref Xamarin.Interactive.Android[0x9c3ac6a0] -> /storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.Android.dll[0x86416c00]: 2
+03-07 23:01:31.821 D/Mono    (10018): Prepared to set up assembly 'Xamarin.Interactive.Android' (/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.Android.dll)
+03-07 23:01:31.821 D/Mono    (10018): Assembly Xamarin.Interactive.Android[0x9c3ac6a0] added to domain RootDomain, ref_count=1
+03-07 23:01:31.822 D/Mono    (10018): AOT: image '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.Android.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Interactive.Android.dll.so" not found
+03-07 23:01:31.823 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Xamarin.Interactive.Android.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Xamarin.Interactive.Android.dll.so" not found
+03-07 23:01:31.824 D/Mono    (10018): Assembly Loader loaded assembly from location: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.Android.dll'.
+03-07 23:01:31.824 D/Mono    (10018): Config attempting to parse: '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/Xamarin.Interactive.Android.dll.config'.
+03-07 23:01:31.825 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Xamarin.Interactive.Android/Xamarin.Interactive.Android.config'.
+03-07 23:01:31.884 D/Mono    (10018): Assembly Ref addref Xamarin.Interactive.Android[0x9c3ac6a0] -> mscorlib[0x9c3aa060]: 12
+03-07 23:01:32.063 D/Mono    (10018): Assembly Ref addref Xamarin.Interactive.Android[0x9c3ac6a0] -> Xamarin.Interactive[0x9c3ac820]: 2
+03-07 23:01:32.098 D/Mono    (10018): Assembly Ref addref Xamarin.Interactive.Android[0x9c3ac6a0] -> Mono.Android[0x9c3abc20]: 2
+03-07 23:01:32.553 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:32.554 D/Mono    (10018): Searching for 'java_interop_jnienv_register_natives'.
+03-07 23:01:32.554 D/Mono    (10018): Probing 'java_interop_jnienv_register_natives'.
+03-07 23:01:32.554 D/Mono    (10018): Found as 'java_interop_jnienv_register_natives'.
+03-07 23:01:32.580 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:32.580 D/Mono    (10018): Searching for 'java_interop_jnienv_call_nonvirtual_void_method_a'.
+03-07 23:01:32.580 D/Mono    (10018): Probing 'java_interop_jnienv_call_nonvirtual_void_method_a'.
+03-07 23:01:32.580 D/Mono    (10018): Found as 'java_interop_jnienv_call_nonvirtual_void_method_a'.
+03-07 23:01:32.592 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:32.592 D/Mono    (10018): Searching for '_monodroid_gc_wait_for_bridge_processing'.
+03-07 23:01:32.592 D/Mono    (10018): Probing '_monodroid_gc_wait_for_bridge_processing'.
+03-07 23:01:32.592 D/Mono    (10018): Found as '_monodroid_gc_wait_for_bridge_processing'.
+03-07 23:01:32.607 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:32.607 D/Mono    (10018): Searching for 'java_interop_jnienv_is_same_object'.
+03-07 23:01:32.607 D/Mono    (10018): Probing 'java_interop_jnienv_is_same_object'.
+03-07 23:01:32.607 D/Mono    (10018): Found as 'java_interop_jnienv_is_same_object'.
+03-07 23:01:32.627 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:32.628 D/Mono    (10018): Searching for 'java_interop_jnienv_new_string'.
+03-07 23:01:32.628 D/Mono    (10018): Probing 'java_interop_jnienv_new_string'.
+03-07 23:01:32.628 D/Mono    (10018): Found as 'java_interop_jnienv_new_string'.
+03-07 23:01:32.638 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:32.638 D/Mono    (10018): Searching for 'java_interop_jnienv_get_static_field_id'.
+03-07 23:01:32.638 D/Mono    (10018): Probing 'java_interop_jnienv_get_static_field_id'.
+03-07 23:01:32.638 D/Mono    (10018): Found as 'java_interop_jnienv_get_static_field_id'.
+03-07 23:01:32.649 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:32.649 D/Mono    (10018): Searching for 'java_interop_jnienv_get_static_object_field'.
+03-07 23:01:32.649 D/Mono    (10018): Probing 'java_interop_jnienv_get_static_object_field'.
+03-07 23:01:32.649 D/Mono    (10018): Found as 'java_interop_jnienv_get_static_object_field'.
+Thread started:  #3
+03-07 23:01:32.874 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:32.874 D/Mono    (10018): Searching for 'java_interop_jnienv_call_static_void_method_a'.
+03-07 23:01:32.874 D/Mono    (10018): Probing 'java_interop_jnienv_call_static_void_method_a'.
+03-07 23:01:32.874 D/Mono    (10018): Found as 'java_interop_jnienv_call_static_void_method_a'.
+03-07 23:01:32.877 D/Mono    (10018): Assembly Ref addref FormsViewGroup[0x9c3aa0c0] -> mscorlib[0x9c3aa060]: 13
+03-07 23:01:32.877 D/Mono    (10018): Assembly Ref addref FormsViewGroup[0x9c3aa0c0] -> Mono.Android[0x9c3abc20]: 3
+03-07 23:01:32.881 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Animated.Vector.Drawable[0x9c3aad20] -> mscorlib[0x9c3aa060]: 14
+03-07 23:01:32.881 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Animated.Vector.Drawable[0x9c3aad20] -> Mono.Android[0x9c3abc20]: 4
+03-07 23:01:32.884 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Annotations[0x9c3aade0] -> mscorlib[0x9c3aa060]: 15
+03-07 23:01:32.884 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Annotations[0x9c3aade0] -> Mono.Android[0x9c3abc20]: 5
+03-07 23:01:32.887 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Compat[0x9c3aaea0] -> mscorlib[0x9c3aa060]: 16
+03-07 23:01:32.888 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Compat[0x9c3aaea0] -> Mono.Android[0x9c3abc20]: 6
+03-07 23:01:32.903 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Core.UI[0x9c3aaf60] -> mscorlib[0x9c3aa060]: 17
+03-07 23:01:32.903 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Core.UI[0x9c3aaf60] -> Mono.Android[0x9c3abc20]: 7
+03-07 23:01:32.906 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Core.Utils[0x9c3ab020] -> mscorlib[0x9c3aa060]: 18
+03-07 23:01:32.906 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Core.Utils[0x9c3ab020] -> Mono.Android[0x9c3abc20]: 8
+03-07 23:01:32.909 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Design[0x9c3ab0e0] -> mscorlib[0x9c3aa060]: 19
+03-07 23:01:32.909 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Design[0x9c3ab0e0] -> Mono.Android[0x9c3abc20]: 9
+03-07 23:01:32.913 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Fragment[0x9c3ab1a0] -> mscorlib[0x9c3aa060]: 20
+03-07 23:01:32.913 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Fragment[0x9c3ab1a0] -> Mono.Android[0x9c3abc20]: 10
+03-07 23:01:32.916 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Media.Compat[0x9c3ab260] -> mscorlib[0x9c3aa060]: 21
+03-07 23:01:32.916 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Media.Compat[0x9c3ab260] -> Mono.Android[0x9c3abc20]: 11
+03-07 23:01:32.919 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Transition[0x9c3ab320] -> mscorlib[0x9c3aa060]: 22
+03-07 23:01:32.920 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Transition[0x9c3ab320] -> Mono.Android[0x9c3abc20]: 12Loaded assembly: System.ObjectModel.dll [External]
+
+03-07 23:01:32.924 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v4[0x9c3ab3e0] -> mscorlib[0x9c3aa060]: 23
+03-07 23:01:32.924 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v4[0x9c3ab3e0] -> Mono.Android[0x9c3abc20]: 13
+03-07 23:01:32.927 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.AppCompat[0x9c3ab4a0] -> mscorlib[0x9c3aa060]: 24
+03-07 23:01:32.927 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.AppCompat[0x9c3ab4a0] -> Mono.Android[0x9c3abc20]: 14
+03-07 23:01:32.932 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.CardView[0x9c3ab560] -> mscorlib[0x9c3aa060]: 25Loaded assembly: System.dll [External]
+
+03-07 23:01:32.932 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.CardView[0x9c3ab560] -> Mono.Android[0x9c3abc20]: 15
+03-07 23:01:32.938 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.MediaRouter[0x9c3ab620] -> mscorlib[0x9c3aa060]: 26
+03-07 23:01:32.938 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.MediaRouter[0x9c3ab620] -> Mono.Android[0x9c3abc20]: 16
+03-07 23:01:32.943 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.Palette[0x9c3ab6e0] -> mscorlib[0x9c3aa060]: 27
+03-07 23:01:32.943 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.Palette[0x9c3ab6e0] -> Mono.Android[0x9c3abc20]: 17
+03-07 23:01:32.946 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.RecyclerView[0x9c3ab7a0] -> mscorlib[0x9c3aa060]: 28
+03-07 23:01:32.947 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.RecyclerView[0x9c3ab7a0] -> Mono.Android[0x9c3abc20]: 18
+03-07 23:01:32.951 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Vector.Drawable[0x9c3ab860] -> mscorlib[0x9c3aa060]: 29
+03-07 23:01:32.951 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Vector.Drawable[0x9c3ab860] -> Mono.Android[0x9c3abc20]: 19
+03-07 23:01:32.961 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> Xamarin.Android.Support.v7.AppCompat[0x9c3ab4a0]: 2Loaded assembly: MonoDroidConstructors [External]
+
+03-07 23:01:32.961 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.AppCompat[0x9c3ab4a0] -> Xamarin.Android.Support.Fragment[0x9c3ab1a0]: 2
+03-07 23:01:32.961 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.Fragment[0x9c3ab1a0] -> Xamarin.Android.Support.Compat[0x9c3aaea0]: 2
+03-07 23:01:32.961 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.AppCompat[0x9c3ab4a0] -> Xamarin.Android.Support.Core.Utils[0x9c3ab020]: 2
+03-07 23:01:32.961 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.AppCompat[0x9c3ab4a0] -> Xamarin.Android.Support.Core.UI[0x9c3aaf60]: 2
+03-07 23:01:33.127 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> Mono.Android[0x9c3abc20]: 20
+03-07 23:01:33.127 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> mscorlib[0x9c3aa060]: 30
+03-07 23:01:33.198 D/Mono    (10018): Assembly Ref addref FixTricks.Android[0x9c3aa1e0] -> Xamarin.Forms.Platform.Android[0x9c3ab9e0]: 2
+03-07 23:01:33.199 D/Mono    (10018): Assembly Ref addref FixTricks.Android[0x9c3aa1e0] -> Mono.Android[0x9c3abc20]: 21
+03-07 23:01:33.229 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> Xamarin.Forms.Core[0x9c3ab920]: 2
+03-07 23:01:33.229 D/Mono    (10018): Unloading image System.Runtime.dll [0x8615f900].
+03-07 23:01:33.229 D/Mono    (10018): Image addref System.Runtime[0x9c3ace20] -> System.Runtime.dll[0x9a478600]: 5
+03-07 23:01:33.229 D/Mono    (10018): Config attempting to parse: 'System.Runtime.dll.config'.
+03-07 23:01:33.230 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime/System.Runtime.config'.
+03-07 23:01:33.230 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Runtime[0x9c3abc80]: 3
+03-07 23:01:33.230 D/Mono    (10018): Image addref System.ObjectModel[0x9c3ace20] -> System.ObjectModel.dll[0x8615f900]: 2
+03-07 23:01:33.231 D/Mono    (10018): Prepared to set up assembly 'System.ObjectModel' (System.ObjectModel.dll)
+03-07 23:01:33.231 D/Mono    (10018): Assembly System.ObjectModel[0x9c3ace20] added to domain RootDomain, ref_count=1
+03-07 23:01:33.232 D/Mono    (10018): AOT: image 'System.ObjectModel.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.ObjectModel.dll.so" not found
+03-07 23:01:33.232 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.ObjectModel.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.ObjectModel.dll.so" not found
+03-07 23:01:33.232 D/Mono    (10018): Config attempting to parse: 'System.ObjectModel.dll.config'.
+03-07 23:01:33.232 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.ObjectModel/System.ObjectModel.config'.
+03-07 23:01:33.232 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.ObjectModel[0x9c3ace20]: 2
+03-07 23:01:33.233 D/Mono    (10018): Image addref System[0x86106540] -> System.dll[0x8615fe00]: 2
+03-07 23:01:33.233 D/Mono    (10018): Prepared to set up assembly 'System' (System.dll)
+03-07 23:01:33.233 D/Mono    (10018): Assembly System[0x86106540] added to domain RootDomain, ref_count=1
+03-07 23:01:33.234 D/Mono    (10018): AOT: image 'System.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.dll.so" not found
+03-07 23:01:33.234 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.dll.so" not found
+03-07 23:01:33.234 D/Mono    (10018): Config attempting to parse: 'System.dll.config'.
+03-07 23:01:33.234 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System/System.config'.
+03-07 23:01:33.234 D/Mono    (10018): Assembly Ref addref System.ObjectModel[0x9c3ace20] -> System[0x86106540]: 2
+03-07 23:01:33.307 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:33.307 D/Mono    (10018): Searching for 'java_interop_jnienv_get_array_length'.
+03-07 23:01:33.307 D/Mono    (10018): Probing 'java_interop_jnienv_get_array_length'.
+03-07 23:01:33.307 D/Mono    (10018): Found as 'java_interop_jnienv_get_array_length'.
+03-07 23:01:33.571 D/Mono    (10018): Assembly Ref addref FixTricks.Android[0x9c3aa1e0] -> mscorlib[0x9c3aa060]: 31Loaded assembly: System.Xml.ReaderWriter.dll [External]
+
+03-07 23:01:33.594 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> System.Core[0x9c3ac580]: 4
+03-07 23:01:33.606 D/Mono    (10018): Unloading image System.Collections.dll [0x86160800].
+03-07 23:01:33.606 D/Mono    (10018): Image addref System.Collections[0x9c3acd00] -> System.Collections.dll[0x86414e00]: 5
+03-07 23:01:33.606 D/Mono    (10018): Config attempting to parse: 'System.Collections.dll.config'.Loaded assembly: System.Xml.dll [External]
+
+03-07 23:01:33.606 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Collections/System.Collections.config'.
+03-07 23:01:33.606 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Collections[0x9c3abe00]: 3
+03-07 23:01:33.607 D/Mono    (10018): Unloading image System.Reflection.dll [0x86160800].
+03-07 23:01:33.607 D/Mono    (10018): Image addref System.Reflection[0x9c3acd00] -> System.Reflection.dll[0x86415300]: 5
+03-07 23:01:33.607 D/Mono    (10018): Config attempting to parse: 'System.Reflection.dll.config'.
+03-07 23:01:33.607 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Reflection/System.Reflection.config'.
+03-07 23:01:33.607 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Reflection[0x9c3abf80]: 3
+03-07 23:01:33.619 D/Mono    (10018): Assembly Ref addref System[0x86106540] -> mscorlib[0x9c3aa060]: 32
+03-07 23:01:33.621 D/Mono    (10018): Image addref System.Xml.ReaderWriter[0x86106a80] -> System.Xml.ReaderWriter.dll[0x86160800]: 2
+03-07 23:01:33.621 D/Mono    (10018): Prepared to set up assembly 'System.Xml.ReaderWriter' (System.Xml.ReaderWriter.dll)
+03-07 23:01:33.621 D/Mono    (10018): Assembly System.Xml.ReaderWriter[0x86106a80] added to domain RootDomain, ref_count=1
+03-07 23:01:33.623 D/Mono    (10018): AOT: image 'System.Xml.ReaderWriter.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Xml.ReaderWriter.dll.so" not found
+03-07 23:01:33.623 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Xml.ReaderWriter.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Xml.ReaderWriter.dll.so" not found
+03-07 23:01:33.623 D/Mono    (10018): Config attempting to parse: 'System.Xml.ReaderWriter.dll.config'.
+03-07 23:01:33.624 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Xml.ReaderWriter/System.Xml.ReaderWriter.config'.
+03-07 23:01:33.624 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Xml.ReaderWriter[0x86106a80]: 2
+03-07 23:01:33.625 D/Mono    (10018): Image addref System.Xml[0x86106a20] -> System.Xml.dll[0x86160d00]: 2
+03-07 23:01:33.625 D/Mono    (10018): Prepared to set up assembly 'System.Xml' (System.Xml.dll)
+03-07 23:01:33.625 D/Mono    (10018): Assembly System.Xml[0x86106a20] added to domain RootDomain, ref_count=1
+03-07 23:01:33.626 D/Mono    (10018): AOT: image 'System.Xml.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Xml.dll.so" not found
+03-07 23:01:33.626 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Xml.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Xml.dll.so" not found
+03-07 23:01:33.627 D/Mono    (10018): Config attempting to parse: 'System.Xml.dll.config'.
+03-07 23:01:33.627 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Xml/System.Xml.config'.
+03-07 23:01:33.627 D/Mono    (10018): Assembly Ref addref System.Xml.ReaderWriter[0x86106a80] -> System.Xml[0x86106a20]: 2
+03-07 23:01:33.628 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Reflection.Extensions[0x9c3ac760]: 3
+03-07 23:01:33.715 D/Mono    (10018): Assembly Ref addref FixTricks.Android[0x9c3aa1e0] -> FixTricks[0x9c3aa240]: 2
+03-07 23:01:33.715 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> Xamarin.Forms.Core[0x9c3ab920]: 3
+03-07 23:01:33.716 D/Mono    (10018): Image addref System.Threading.Tasks[0x86106b40] -> System.Threading.Tasks.dll[0x86161c00]: 2
+03-07 23:01:33.716 D/Mono    (10018): Prepared to set up assembly 'System.Threading.Tasks' (System.Threading.Tasks.dll)
+03-07 23:01:33.716 D/Mono    (10018): Assembly System.Threading.Tasks[0x86106b40] added to domain RootDomain, ref_count=1
+03-07 23:01:33.717 D/Mono    (10018): AOT: image 'System.Threading.Tasks.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Threading.Tasks.dll.so" not found
+03-07 23:01:33.718 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Threading.Tasks.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Threading.Tasks.dll.so" not found
+03-07 23:01:33.718 D/Mono    (10018): Config attempting to parse: 'System.Threading.Tasks.dll.config'.
+03-07 23:01:33.718 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Threading.Tasks/System.Threading.Tasks.config'.
+03-07 23:01:33.718 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Threading.Tasks[0x86106b40]: 2
+03-07 23:01:33.719 D/Mono    (10018): Assembly Ref addref System.Threading.Tasks[0x86106b40] -> mscorlib[0x9c3aa060]: 33
+03-07 23:01:33.720 D/Mono    (10018): Unloading image System.Threading.dll [0x86162100].Loaded assembly: System.Threading.Tasks.dll [External]
+
+03-07 23:01:33.720 D/Mono    (10018): Image addref System.Threading[0x9c3acd00] -> System.Threading.dll[0x86413a00]: 5
+03-07 23:01:33.720 D/Mono    (10018): Config attempting to parse: 'System.Threading.dll.config'.
+03-07 23:01:33.720 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Threading/System.Threading.config'.
+03-07 23:01:33.721 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Threading[0x9c3abe60]: 3
+03-07 23:01:33.721 D/Mono    (10018): Assembly Ref addref System.Runtime[0x9c3abc80] -> System[0x86106540]: 3
+03-07 23:01:33.721 D/Mono    (10018): Assembly Ref addref FixTricks.Android[0x9c3aa1e0] -> Xamarin.Forms.Core[0x9c3ab920]: 4
+03-07 23:01:33.796 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> Xamarin.Android.Support.Fragment[0x9c3ab1a0]: 3
+03-07 23:01:33.811 W/art     (10018): Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+03-07 23:01:33.838 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:33.838 D/Mono    (10018): Searching for 'java_interop_jnienv_call_nonvirtual_object_method_a'.
+03-07 23:01:33.838 D/Mono    (10018): Probing 'java_interop_jnienv_call_nonvirtual_object_method_a'.
+03-07 23:01:33.838 D/Mono    (10018): Found as 'java_interop_jnienv_call_nonvirtual_object_method_a'.
+Thread started: <Thread Pool> #4
+Thread started: <Thread Pool> #5
+Thread started: <Thread Pool> #6
+Thread started: <Thread Pool> #7
+Thread started: <Thread Pool> #8
+03-07 23:01:34.110 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.110 D/Mono    (10018): Searching for 'java_interop_jnienv_call_nonvirtual_boolean_method_a'.
+03-07 23:01:34.110 D/Mono    (10018): Probing 'java_interop_jnienv_call_nonvirtual_boolean_method_a'.
+03-07 23:01:34.110 D/Mono    (10018): Found as 'java_interop_jnienv_call_nonvirtual_boolean_method_a'.
+03-07 23:01:34.128 D/Mono    (10018): Unloading image System.Runtime.Extensions.dll [0x85b8ff00].
+03-07 23:01:34.128 D/Mono    (10018): Image addref System.Runtime.Extensions[0x86107440] -> System.Runtime.Extensions.dll[0x86414900]: 5
+03-07 23:01:34.128 D/Mono    (10018): Config attempting to parse: 'System.Runtime.Extensions.dll.config'.
+03-07 23:01:34.128 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime.Extensions/System.Runtime.Extensions.config'.
+03-07 23:01:34.128 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Runtime.Extensions[0x9c3ac5e0]: 3
+Loaded assembly: System.IO.dll [External]
+03-07 23:01:34.160 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.160 D/Mono    (10018): Searching for 'java_interop_jnienv_get_static_int_field'.Loaded assembly: System.Linq.Expressions.dll [External]
+
+03-07 23:01:34.160 D/Mono    (10018): Probing 'java_interop_jnienv_get_static_int_field'.
+03-07 23:01:34.160 D/Mono    (10018): Found as 'java_interop_jnienv_get_static_int_field'.
+03-07 23:01:34.177 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.177 D/Mono    (10018): Searching for 'java_interop_jnienv_call_void_method_a'.
+03-07 23:01:34.177 D/Mono    (10018): Probing 'java_interop_jnienv_call_void_method_a'.
+03-07 23:01:34.177 D/Mono    (10018): Found as 'java_interop_jnienv_call_void_method_a'.
+03-07 23:01:34.193 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> System[0x86106540]: 4
+03-07 23:01:34.194 D/Mono    (10018): Image addref System.IO[0x86107260] -> System.IO.dll[0x85b8ff00]: 2
+03-07 23:01:34.194 D/Mono    (10018): Prepared to set up assembly 'System.IO' (System.IO.dll)
+03-07 23:01:34.194 D/Mono    (10018): Assembly System.IO[0x86107260] added to domain RootDomain, ref_count=1
+03-07 23:01:34.195 D/Mono    (10018): AOT: image 'System.IO.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.IO.dll.so" not found
+03-07 23:01:34.196 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.IO.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.IO.dll.so" not found
+03-07 23:01:34.196 D/Mono    (10018): Config attempting to parse: 'System.IO.dll.config'.
+03-07 23:01:34.196 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.IO/System.IO.config'.
+03-07 23:01:34.196 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.IO[0x86107260]: 2
+03-07 23:01:34.196 D/Mono    (10018): Assembly Ref addref System.IO[0x86107260] -> mscorlib[0x9c3aa060]: 34
+03-07 23:01:34.197 D/Mono    (10018): Assembly Ref addref System.Runtime.Extensions[0x9c3ac5e0] -> System[0x86106540]: 5
+03-07 23:01:34.199 D/Mono    (10018): Image addref System.Linq.Expressions[0x861074a0] -> System.Linq.Expressions.dll[0x85b90900]: 2
+03-07 23:01:34.199 D/Mono    (10018): Prepared to set up assembly 'System.Linq.Expressions' (System.Linq.Expressions.dll)
+03-07 23:01:34.199 D/Mono    (10018): Assembly System.Linq.Expressions[0x861074a0] added to domain RootDomain, ref_count=1
+03-07 23:01:34.201 D/Mono    (10018): AOT: image 'System.Linq.Expressions.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Linq.Expressions.dll.so" not found
+03-07 23:01:34.201 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Linq.Expressions.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Linq.Expressions.dll.so" not found
+03-07 23:01:34.201 D/Mono    (10018): Config attempting to parse: 'System.Linq.Expressions.dll.config'.
+03-07 23:01:34.201 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Linq.Expressions/System.Linq.Expressions.config'.
+03-07 23:01:34.202 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Linq.Expressions[0x861074a0]: 2
+03-07 23:01:34.202 D/Mono    (10018): Assembly Ref addref System.Linq.Expressions[0x861074a0] -> System.Core[0x9c3ac580]: 5
+03-07 23:01:34.281 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.281 D/Mono    (10018): Searching for 'java_interop_jnienv_call_boolean_method_a'.
+03-07 23:01:34.281 D/Mono    (10018): Probing 'java_interop_jnienv_call_boolean_method_a'.
+03-07 23:01:34.281 D/Mono    (10018): Found as 'java_interop_jnienv_call_boolean_method_a'.
+03-07 23:01:34.293 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.293 D/Mono    (10018): Searching for 'java_interop_jnienv_get_field_id'.
+03-07 23:01:34.293 D/Mono    (10018): Probing 'java_interop_jnienv_get_field_id'.
+03-07 23:01:34.293 D/Mono    (10018): Found as 'java_interop_jnienv_get_field_id'.
+03-07 23:01:34.297 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.297 D/Mono    (10018): Searching for 'java_interop_jnienv_get_int_field'.
+03-07 23:01:34.297 D/Mono    (10018): Probing 'java_interop_jnienv_get_int_field'.
+03-07 23:01:34.297 D/Mono    (10018): Found as 'java_interop_jnienv_get_int_field'.
+03-07 23:01:34.344 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.344 D/Mono    (10018): Searching for 'java_interop_jnienv_get_float_field'.
+03-07 23:01:34.344 D/Mono    (10018): Probing 'java_interop_jnienv_get_float_field'.
+03-07 23:01:34.344 D/Mono    (10018): Found as 'java_interop_jnienv_get_float_field'.
+03-07 23:01:34.408 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.408 D/Mono    (10018): Searching for 'java_interop_jnienv_new_int_array'.
+03-07 23:01:34.408 D/Mono    (10018): Probing 'java_interop_jnienv_new_int_array'.
+03-07 23:01:34.408 D/Mono    (10018): Found as 'java_interop_jnienv_new_int_array'.
+03-07 23:01:34.414 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.414 D/Mono    (10018): Searching for 'java_interop_jnienv_set_int_array_region'.
+03-07 23:01:34.414 D/Mono    (10018): Probing 'java_interop_jnienv_set_int_array_region'.
+03-07 23:01:34.414 D/Mono    (10018): Found as 'java_interop_jnienv_set_int_array_region'.
+03-07 23:01:34.423 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.424 D/Mono    (10018): Searching for 'java_interop_jnienv_get_int_array_region'.
+03-07 23:01:34.424 D/Mono    (10018): Probing 'java_interop_jnienv_get_int_array_region'.
+03-07 23:01:34.424 D/Mono    (10018): Found as 'java_interop_jnienv_get_int_array_region'.
+03-07 23:01:34.479 D/Mono    (10018): Unloading image System.Linq.dll [0x85b93600].
+03-07 23:01:34.479 D/Mono    (10018): Image addref System.Linq[0x861077a0] -> System.Linq.dll[0x86415800]: 5
+03-07 23:01:34.479 D/Mono    (10018): Config attempting to parse: 'System.Linq.dll.config'.
+03-07 23:01:34.479 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Linq/System.Linq.config'.
+03-07 23:01:34.479 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Linq[0x9c3ac460]: 3
+03-07 23:01:34.502 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> FormsViewGroup[0x9c3aa0c0]: 2
+03-07 23:01:34.543 D/Mono    (10018): Image addref netstandard[0x86107800] -> netstandard.dll[0x85b93600]: 2
+03-07 23:01:34.543 D/Mono    (10018): Prepared to set up assembly 'netstandard' (netstandard.dll)
+03-07 23:01:34.543 D/Mono    (10018): Assembly netstandard[0x86107800] added to domain RootDomain, ref_count=1
+03-07 23:01:34.544 D/Mono    (10018): AOT: image 'netstandard.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-netstandard.dll.so" not found
+03-07 23:01:34.544 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/netstandard.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-netstandard.dll.so" not found
+03-07 23:01:34.544 D/Mono    (10018): Config attempting to parse: 'netstandard.dll.config'.
+03-07 23:01:34.545 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/netstandard/netstandard.config'.
+03-07 23:01:34.545 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> netstandard[0x86107800]: 2
+03-07 23:01:34.546 D/Mono    (10018): Assembly Ref addref netstandard[0x86107800] -> mscorlib[0x9c3aa060]: 35
+03-07 23:01:34.546 D/Mono    (10018): Assembly Ref addref HtmlAgilityPack[0x9c3aa600] -> netstandard[0x86107800]: 3
+03-07 23:01:34.551 D/Mono    (10018): Unloading image System.Runtime.dll [0x85b93b00].
+03-07 23:01:34.552 D/Mono    (10018): Image addref System.Runtime[0x86107740] -> System.Runtime.dll[0x9a478600]: 6
+03-07 23:01:34.552 D/Mono    (10018): Config attempting to parse: 'System.Runtime.dll.config'.
+03-07 23:01:34.552 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime/System.Runtime.config'.
+03-07 23:01:34.552 D/Mono    (10018): Assembly Ref addref Portable.Text.Encoding[0x9c3aa660] -> System.Runtime[0x9c3abc80]: 4
+03-07 23:01:34.559 D/Mono    (10018): Unloading image System.Runtime.dll [0x85b93b00].
+03-07 23:01:34.559 D/Mono    (10018): Image addref System.Runtime[0x86107740] -> System.Runtime.dll[0x9a478600]: 7
+03-07 23:01:34.559 D/Mono    (10018): Config attempting to parse: 'System.Runtime.dll.config'.
+03-07 23:01:34.559 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime/System.Runtime.config'.
+03-07 23:01:34.559 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> System.Runtime[0x9c3abc80]: 5
+03-07 23:01:34.560 D/Mono    (10018): Assembly Ref addref SQLitePCLRaw.batteries_green[0x9c3aa7e0] -> mscorlib[0x9c3aa060]: 36
+03-07 23:01:34.560 D/Mono    (10018): Assembly Ref addref SQLitePCLRaw.batteries_v2[0x9c3aa840] -> mscorlib[0x9c3aa060]: 37
+03-07 23:01:34.561 D/Mono    (10018): Assembly Ref addref SQLitePCLRaw.core[0x9c3aa960] -> mscorlib[0x9c3aa060]: 38
+03-07 23:01:34.561 D/Mono    (10018): Assembly Ref addref SQLitePCLRaw.lib.e_sqlite3[0x9c3aaa20] -> mscorlib[0x9c3aa060]: 39
+03-07 23:01:34.562 D/Mono    (10018): Assembly Ref addref SQLitePCLRaw.provider.e_sqlite3[0x9c3aaae0] -> mscorlib[0x9c3aa060]: 40
+03-07 23:01:34.569 D/Mono    (10018): Unloading image System.Runtime.dll [0x85b93b00].
+03-07 23:01:34.569 D/Mono    (10018): Image addref System.Runtime[0x86107740] -> System.Runtime.dll[0x9a478600]: 8
+03-07 23:01:34.569 D/Mono    (10018): Config attempting to parse: 'System.Runtime.dll.config'.
+03-07 23:01:34.569 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime/System.Runtime.config'.
+03-07 23:01:34.569 D/Mono    (10018): Assembly Ref addref Syncfusion.Compression.Portable[0x9c3aaba0] -> System.Runtime[0x9c3abc80]: 6
+03-07 23:01:34.582 D/Mono    (10018): Image addref System.Resources.ResourceManager[0x86107740] -> System.Resources.ResourceManager.dll[0x85b93b00]: 2
+03-07 23:01:34.582 D/Mono    (10018): Prepared to set up assembly 'System.Resources.ResourceManager' (System.Resources.ResourceManager.dll)
+03-07 23:01:34.582 D/Mono    (10018): Assembly System.Resources.ResourceManager[0x86107740] added to domain RootDomain, ref_count=1
+03-07 23:01:34.583 D/Mono    (10018): AOT: image 'System.Resources.ResourceManager.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Resources.ResourceManager.dll.so" not found
+03-07 23:01:34.583 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Resources.ResourceManager.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Resources.ResourceManager.dll.so" not found
+03-07 23:01:34.583 D/Mono    (10018): Config attempting to parse: 'System.Resources.ResourceManager.dll.config'.Loaded assembly: netstandard.dll [External]
+
+03-07 23:01:34.583 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Resources.ResourceManager/System.Resources.ResourceManager.config'.
+03-07 23:01:34.584 D/Mono    (10018): Assembly Ref addref Syncfusion.Compression.Portable[0x9c3aaba0] -> System.Resources.ResourceManager[0x86107740]: 2
+03-07 23:01:34.584 D/Mono    (10018): Assembly Ref addref System.Resources.ResourceManager[0x86107740] -> mscorlib[0x9c3aa060]: 41
+03-07 23:01:34.588 D/Mono    (10018): Unloading image System.Runtime.dll [0x8553a000].
+03-07 23:01:34.588 D/Mono    (10018): Image addref System.Runtime[0x86107860] -> System.Runtime.dll[0x9a478600]: 9
+03-07 23:01:34.588 D/Mono    (10018): Config attempting to parse: 'System.Runtime.dll.config'.
+03-07 23:01:34.588 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime/System.Runtime.config'.
+03-07 23:01:34.588 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Runtime[0x9c3abc80]: 7
+03-07 23:01:34.594 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform[0x9c3abaa0] -> mscorlib[0x9c3aa060]: 42
+03-07 23:01:34.599 D/Mono    (10018): Unloading image System.Runtime.dll [0x8553a000].
+03-07 23:01:34.599 D/Mono    (10018): Image addref System.Runtime[0x86107860] -> System.Runtime.dll[0x9a478600]: 10
+03-07 23:01:34.599 D/Mono    (10018): Config attempting to parse: 'System.Runtime.dll.config'.
+03-07 23:01:34.599 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime/System.Runtime.config'.
+03-07 23:01:34.599 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Xaml[0x9c3abb60] -> System.Runtime[0x9c3abc80]: 8
+03-07 23:01:34.599 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Xaml[0x9c3abb60] -> Xamarin.Forms.Core[0x9c3ab920]: 5
+03-07 23:01:34.601 D/Mono    (10018): Assembly Ref addref System.Linq[0x9c3ac460] -> mscorlib[0x9c3aa060]: 43
+03-07 23:01:34.606 D/Mono    (10018): Unloading image System.Runtime.dll [0x8553a000].
+03-07 23:01:34.606 D/Mono    (10018): Image addref System.Runtime[0x86107860] -> System.Runtime.dll[0x9a478600]: 11
+03-07 23:01:34.606 D/Mono    (10018): Config attempting to parse: 'System.Runtime.dll.config'.
+03-07 23:01:34.606 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime/System.Runtime.config'.
+03-07 23:01:34.607 D/Mono    (10018): Assembly Ref addref Xamarin.Interactive[0x9c3ac820] -> System.Runtime[0x9c3abc80]: 9
+03-07 23:01:34.607 D/Mono    (10018): Assembly Ref addref System.ObjectModel[0x9c3ace20] -> mscorlib[0x9c3aa060]: 44
+Loaded assembly: System.Resources.ResourceManager.dll [External]
+03-07 23:01:34.648 D/Mono    (10018): Assembly Ref addref System.Xml.ReaderWriter[0x86106a80] -> mscorlib[0x9c3aa060]: 45
+03-07 23:01:34.649 D/Mono    (10018): Assembly Ref addref System.Xml[0x86106a20] -> mscorlib[0x9c3aa060]: 46
+03-07 23:01:34.649 D/Mono    (10018): Assembly Ref addref System.Linq.Expressions[0x861074a0] -> mscorlib[0x9c3aa060]: 47
+03-07 23:01:34.682 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> Xamarin.Forms.Platform[0x9c3abaa0]: 2
+03-07 23:01:34.694 D/Mono    (10018): Image addref System.Globalization[0x861078c0] -> System.Globalization.dll[0x8553a000]: 2
+03-07 23:01:34.694 D/Mono    (10018): Prepared to set up assembly 'System.Globalization' (System.Globalization.dll)
+03-07 23:01:34.694 D/Mono    (10018): Assembly System.Globalization[0x861078c0] added to domain RootDomain, ref_count=1
+03-07 23:01:34.695 D/Mono    (10018): AOT: image 'System.Globalization.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Globalization.dll.so" not found
+03-07 23:01:34.695 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Globalization.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Globalization.dll.so" not found
+03-07 23:01:34.695 D/Mono    (10018): Config attempting to parse: 'System.Globalization.dll.config'.
+Loaded assembly: System.Globalization.dll [External]
+03-07 23:01:34.695 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Globalization/System.Globalization.config'.
+03-07 23:01:34.695 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Globalization[0x861078c0]: 2
+03-07 23:01:34.696 D/Mono    (10018): Assembly Ref addref System.Globalization[0x861078c0] -> mscorlib[0x9c3aa060]: 48
+03-07 23:01:34.759 D/Mono    (10018): Assembly Ref addref System.Collections[0x9c3abe00] -> System[0x86106540]: 6
+03-07 23:01:34.802 D/Mono    (10018): Image addref System.Dynamic.Runtime[0x861079e0] -> System.Dynamic.Runtime.dll[0x8553a500]: 2
+03-07 23:01:34.802 D/Mono    (10018): Prepared to set up assembly 'System.Dynamic.Runtime' (System.Dynamic.Runtime.dll)
+03-07 23:01:34.802 D/Mono    (10018): Assembly System.Dynamic.Runtime[0x861079e0] added to domain RootDomain, ref_count=1
+03-07 23:01:34.803 D/Mono    (10018): AOT: image 'System.Dynamic.Runtime.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Dynamic.Runtime.dll.so" not found
+03-07 23:01:34.804 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Dynamic.Runtime.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Dynamic.Runtime.dll.so" not found
+03-07 23:01:34.804 D/Mono    (10018): Config attempting to parse: 'System.Dynamic.Runtime.dll.config'.Loaded assembly: System.Dynamic.Runtime.dll [External]
+
+03-07 23:01:34.804 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Dynamic.Runtime/System.Dynamic.Runtime.config'.
+03-07 23:01:34.804 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.Dynamic.Runtime[0x861079e0]: 2
+03-07 23:01:34.804 D/Mono    (10018): Assembly Ref addref System.Dynamic.Runtime[0x861079e0] -> mscorlib[0x9c3aa060]: 49
+03-07 23:01:34.880 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:34.880 D/Mono    (10018): Searching for 'java_interop_jnienv_call_int_method_a'.
+03-07 23:01:34.880 D/Mono    (10018): Probing 'java_interop_jnienv_call_int_method_a'.
+03-07 23:01:34.880 D/Mono    (10018): Found as 'java_interop_jnienv_call_int_method_a'.
+03-07 23:01:34.908 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> Xamarin.Forms.Xaml[0x9c3abb60]: 2
+03-07 23:01:34.910 D/Mono    (10018): Unloading image System.Collections.dll [0x8553aa00].
+03-07 23:01:34.910 D/Mono    (10018): Image addref System.Collections[0x86107a40] -> System.Collections.dll[0x86414e00]: 6
+03-07 23:01:34.910 D/Mono    (10018): Config attempting to parse: 'System.Collections.dll.config'.
+03-07 23:01:34.910 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Collections/System.Collections.config'.
+03-07 23:01:34.910 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Xaml[0x9c3abb60] -> System.Collections[0x9c3abe00]: 4
+03-07 23:01:34.913 D/Mono    (10018): Unloading image System.Xml.ReaderWriter.dll [0x8553af00].Loaded assembly: System.Text.RegularExpressions.dll [External]
+
+03-07 23:01:34.913 D/Mono    (10018): Image addref System.Xml.ReaderWriter[0x86107a40] -> System.Xml.ReaderWriter.dll[0x86160800]: 5
+03-07 23:01:34.913 D/Mono    (10018): Config attempting to parse: 'System.Xml.ReaderWriter.dll.config'.
+03-07 23:01:34.913 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Xml.ReaderWriter/System.Xml.ReaderWriter.config'.
+03-07 23:01:34.913 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Xaml[0x9c3abb60] -> System.Xml.ReaderWriter[0x86106a80]: 3
+03-07 23:01:34.918 D/Mono    (10018): Unloading image System.Reflection.dll [0x8553af00].
+03-07 23:01:34.918 D/Mono    (10018): Image addref System.Reflection[0x86107a40] -> System.Reflection.dll[0x86415300]: 6
+03-07 23:01:34.918 D/Mono    (10018): Config attempting to parse: 'System.Reflection.dll.config'.
+03-07 23:01:34.918 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Reflection/System.Reflection.config'.
+03-07 23:01:34.918 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Xaml[0x9c3abb60] -> System.Reflection[0x9c3abf80]: 4
+03-07 23:01:34.946 D/Mono    (10018): Unloading image System.IO.dll [0x8553af00].
+03-07 23:01:34.946 D/Mono    (10018): Image addref System.IO[0x86107920] -> System.IO.dll[0x85b8ff00]: 5
+03-07 23:01:34.946 D/Mono    (10018): Config attempting to parse: 'System.IO.dll.config'.
+03-07 23:01:34.946 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.IO/System.IO.config'.
+03-07 23:01:34.946 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Xaml[0x9c3abb60] -> System.IO[0x86107260]: 3
+03-07 23:01:34.947 D/Mono    (10018): Image addref System.Text.RegularExpressions[0x86107860] -> System.Text.RegularExpressions.dll[0x8553af00]: 2
+03-07 23:01:34.947 D/Mono    (10018): Prepared to set up assembly 'System.Text.RegularExpressions' (System.Text.RegularExpressions.dll)
+03-07 23:01:34.947 D/Mono    (10018): Assembly System.Text.RegularExpressions[0x86107860] added to domain RootDomain, ref_count=1
+03-07 23:01:34.948 D/Mono    (10018): AOT: image 'System.Text.RegularExpressions.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Text.RegularExpressions.dll.so" not found
+03-07 23:01:34.949 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Text.RegularExpressions.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Text.RegularExpressions.dll.so" not found
+03-07 23:01:34.949 D/Mono    (10018): Config attempting to parse: 'System.Text.RegularExpressions.dll.config'.
+03-07 23:01:34.949 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Text.RegularExpressions/System.Text.RegularExpressions.config'.
+03-07 23:01:34.949 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Xaml[0x9c3abb60] -> System.Text.RegularExpressions[0x86107860]: 2
+03-07 23:01:34.949 D/Mono    (10018): Assembly Ref addref System.Text.RegularExpressions[0x86107860] -> System[0x86106540]: 7
+03-07 23:01:35.405 D/Mono    (10018): Assembly Ref addref System.Xml[0x86106a20] -> System[0x86106540]: 8
+03-07 23:01:35.801 D/Mono    (10018): Unloading image System.Linq.dll [0x8553be00].
+03-07 23:01:35.801 D/Mono    (10018): Image addref System.Linq[0x861080a0] -> System.Linq.dll[0x86415800]: 6
+03-07 23:01:35.801 D/Mono    (10018): Config attempting to parse: 'System.Linq.dll.config'.
+03-07 23:01:35.801 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Linq/System.Linq.config'.
+03-07 23:01:35.801 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Xaml[0x9c3abb60] -> System.Linq[0x9c3ac460]: 4
+03-07 23:01:36.030 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> SQLite-net[0x9c3aa6c0]: 2
+03-07 23:01:36.031 D/Mono    (10018): Unloading image System.Collections.dll [0x85b91300].
+03-07 23:01:36.031 D/Mono    (10018): Image addref System.Collections[0x861084c0] -> System.Collections.dll[0x86414e00]: 7
+03-07 23:01:36.031 D/Mono    (10018): Config attempting to parse: 'System.Collections.dll.config'.
+03-07 23:01:36.031 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Collections/System.Collections.config'.
+03-07 23:01:36.031 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> System.Collections[0x9c3abe00]: 5
+03-07 23:01:36.041 D/Mono    (10018): Unloading image System.Runtime.Extensions.dll [0x85b91300].
+03-07 23:01:36.041 D/Mono    (10018): Image addref System.Runtime.Extensions[0x861084c0] -> System.Runtime.Extensions.dll[0x86414900]: 6
+03-07 23:01:36.041 D/Mono    (10018): Config attempting to parse: 'System.Runtime.Extensions.dll.config'.
+03-07 23:01:36.041 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime.Extensions/System.Runtime.Extensions.config'.
+03-07 23:01:36.042 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> System.Runtime.Extensions[0x9c3ac5e0]: 4
+03-07 23:01:36.042 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> SQLitePCLRaw.core[0x9c3aa960]: 2
+03-07 23:01:36.058 D/Mono    (10018): Assembly Ref addref FormsViewGroup[0x9c3aa0c0] -> Java.Interop[0x9c3abd40]: 3
+03-07 23:01:36.061 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> Xamarin.Android.Support.Core.UI[0x9c3aaf60]: 3
+03-07 23:01:36.062 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> Xamarin.Android.Support.Design[0x9c3ab0e0]: 2
+03-07 23:01:36.066 D/Mono    (10018): Assembly Ref addref Xamarin.Android.Support.v7.AppCompat[0x9c3ab4a0] -> Xamarin.Android.Support.Compat[0x9c3aaea0]: 3
+03-07 23:01:36.072 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform.Android[0x9c3ab9e0] -> Xamarin.Android.Support.v7.CardView[0x9c3ab560]: 2
+03-07 23:01:36.076 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> SQLitePCLRaw.batteries_v2[0x9c3aa840]: 2
+03-07 23:01:36.079 D/Mono    (10018): Assembly Ref addref SQLitePCLRaw.batteries_v2[0x9c3aa840] -> SQLitePCLRaw.provider.e_sqlite3[0x9c3aaae0]: 2
+03-07 23:01:36.079 D/Mono    (10018): Assembly Ref addref SQLitePCLRaw.provider.e_sqlite3[0x9c3aaae0] -> SQLitePCLRaw.core[0x9c3aa960]: 3
+03-07 23:01:36.082 D/Mono    (10018): Assembly Ref addref SQLitePCLRaw.batteries_v2[0x9c3aa840] -> SQLitePCLRaw.core[0x9c3aa960]: 4
+03-07 23:01:36.091 D/Mono    (10018): DllImport attempting to load: 'e_sqlite3'.
+03-07 23:01:36.097 D/Mono    (10018): DllImport error loading library '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/libe_sqlite3': 'dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86//storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/libe_sqlite3" not found'.
+03-07 23:01:36.112 D/Mono    (10018): DllImport error loading library '/storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/libe_sqlite3.so': 'dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86//storage/emulated/0/Android/data/com.eugeneslobodoff.iefstudy/files/.__override__/libe_sqlite3.so" not found'.
+03-07 23:01:36.126 D/Mono    (10018): DllImport error loading library '/system/lib/libe_sqlite3': 'dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86//system/lib/libe_sqlite3" not found'.
+03-07 23:01:36.138 D/Mono    (10018): DllImport error loading library '/system/lib/libe_sqlite3.so': 'dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86//system/lib/libe_sqlite3.so" not found'.
+03-07 23:01:36.157 D/Mono    (10018): DllImport error loading library 'libe_sqlite3': 'dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libe_sqlite3" not found'.
+03-07 23:01:36.171 D/Mono    (10018): DllImport loaded library 'libe_sqlite3.so'.
+03-07 23:01:36.171 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:36.171 D/Mono    (10018): Searching for 'sqlite3_libversion_number'.
+03-07 23:01:36.188 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Platform[0x9c3abaa0] -> Xamarin.Forms.Core[0x9c3ab920]: 6
+03-07 23:01:36.190 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:36.190 D/Mono    (10018): Searching for 'sqlite3_open_v2'.
+03-07 23:01:36.220 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:36.220 D/Mono    (10018): Searching for 'sqlite3_busy_timeout'.
+03-07 23:01:36.354 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:36.354 D/Mono    (10018): Searching for 'java_interop_jnienv_call_static_long_method_a'.
+03-07 23:01:36.354 D/Mono    (10018): Probing 'java_interop_jnienv_call_static_long_method_a'.
+03-07 23:01:36.354 D/Mono    (10018): Found as 'java_interop_jnienv_call_static_long_method_a'.
+03-07 23:01:36.412 D/        (10018): HostConnection::get() New Host Connection established 0x85458240, tid 10018
+03-07 23:01:36.415 W/        (10018): Unrecognized GLES max version string in extensions: ANDROID_EMU_CHECKSUM_HELPER_v1 
+03-07 23:01:36.415 W/        (10018): Process pipe failed
+03-07 23:01:36.434 D/Mono    (10018): Unloading image System.Linq.Expressions.dll [0x8553d200].
+03-07 23:01:36.434 D/Mono    (10018): Image addref System.Linq.Expressions[0x86108a00] -> System.Linq.Expressions.dll[0x85b90900]: 5
+03-07 23:01:36.434 D/Mono    (10018): Config attempting to parse: 'System.Linq.Expressions.dll.config'.
+03-07 23:01:36.434 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Linq.Expressions/System.Linq.Expressions.config'.
+03-07 23:01:36.434 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> System.Linq.Expressions[0x861074a0]: 3
+03-07 23:01:36.448 D/Mono    (10018): Unloading image System.Collections.Concurrent.dll [0x8553d200].
+03-07 23:01:36.448 D/Mono    (10018): Image addref System.Collections.Concurrent[0x86108b20] -> System.Collections.Concurrent.dll[0x86413500]: 5
+03-07 23:01:36.448 D/Mono    (10018): Config attempting to parse: 'System.Collections.Concurrent.dll.config'.
+03-07 23:01:36.448 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Collections.Concurrent/System.Collections.Concurrent.config'.
+03-07 23:01:36.448 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> System.Collections.Concurrent[0x9c3abda0]: 3
+03-07 23:01:36.454 D/Mono    (10018): Unloading image System.Reflection.dll [0x8553d200].
+03-07 23:01:36.454 D/Mono    (10018): Image addref System.Reflection[0x86108ac0] -> System.Reflection.dll[0x86415300]: 7
+03-07 23:01:36.454 D/Mono    (10018): Config attempting to parse: 'System.Reflection.dll.config'.
+03-07 23:01:36.454 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Reflection/System.Reflection.config'.
+03-07 23:01:36.454 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> System.Reflection[0x9c3abf80]: 5
+03-07 23:01:36.464 D/Mono    (10018): Unloading image System.Linq.dll [0x8553d200].
+03-07 23:01:36.464 D/Mono    (10018): Image addref System.Linq[0x86108940] -> System.Linq.dll[0x86415800]: 7
+03-07 23:01:36.464 D/Mono    (10018): Config attempting to parse: 'System.Linq.dll.config'.
+03-07 23:01:36.464 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Linq/System.Linq.config'.
+03-07 23:01:36.465 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> System.Linq[0x9c3ac460]: 5
+03-07 23:01:36.466 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> System.Reflection.Extensions[0x9c3ac760]: 4
+03-07 23:01:36.651 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:36.651 D/Mono    (10018): Searching for 'sqlite3_prepare_v2'.
+03-07 23:01:36.680 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:36.680 D/Mono    (10018): Searching for 'sqlite3_step'.
+03-07 23:01:36.687 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:36.687 D/Mono    (10018): Searching for 'sqlite3_column_type'.
+03-07 23:01:36.694 D/Mono    (10018): Unloading image System.Globalization.dll [0x8553d200].
+03-07 23:01:36.694 D/Mono    (10018): Image addref System.Globalization[0x86108dc0] -> System.Globalization.dll[0x8553a000]: 5
+03-07 23:01:36.694 D/Mono    (10018): Config attempting to parse: 'System.Globalization.dll.config'.
+03-07 23:01:36.694 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Globalization/System.Globalization.config'.
+03-07 23:01:36.694 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> System.Globalization[0x861078c0]: 3
+03-07 23:01:36.699 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:36.699 D/Mono    (10018): Searching for 'sqlite3_column_int'.
+03-07 23:01:36.706 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:36.706 D/Mono    (10018): Searching for 'sqlite3_finalize'.
+03-07 23:01:36.949 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:36.949 D/Mono    (10018): Searching for 'sqlite3_changes'.
+03-07 23:01:37.847 D/Mono    (10018): Unloading image System.Runtime.dll [0x853fb000].
+Loaded assembly: System.ComponentModel.dll [External]
+03-07 23:01:37.847 D/Mono    (10018): Image addref System.Runtime[0x853560c0] -> System.Runtime.dll[0x9a478600]: 12
+03-07 23:01:37.847 D/Mono    (10018): Config attempting to parse: 'System.Runtime.dll.config'.
+03-07 23:01:37.847 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime/System.Runtime.config'.
+03-07 23:01:37.847 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> System.Runtime[0x9c3abc80]: 10
+03-07 23:01:37.847 W/Mono    (10018): The request to load the assembly mscorlib v4.0.0.0 was remapped to v2.0.5.0
+03-07 23:01:37.848 D/Mono    (10018): Unloading image mscorlib.dll [0x853fb000].
+03-07 23:01:37.848 D/Mono    (10018): Config attempting to parse: 'mscorlib.dll.config'.
+03-07 23:01:37.848 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/mscorlib/mscorlib.config'.
+03-07 23:01:37.848 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> mscorlib[0x9c3aa060]: 50
+03-07 23:01:37.860 D/Mono    (10018): Image addref System.ComponentModel[0x85356180] -> System.ComponentModel.dll[0x853fb000]: 2
+03-07 23:01:37.861 D/Mono    (10018): Prepared to set up assembly 'System.ComponentModel' (System.ComponentModel.dll)
+03-07 23:01:37.861 D/Mono    (10018): Assembly System.ComponentModel[0x85356180] added to domain RootDomain, ref_count=1
+03-07 23:01:37.862 D/Mono    (10018): AOT: image 'System.ComponentModel.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.ComponentModel.dll.so" not found
+03-07 23:01:37.862 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.ComponentModel.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.ComponentModel.dll.so" not found
+03-07 23:01:37.862 D/Mono    (10018): Config attempting to parse: 'System.ComponentModel.dll.config'.
+03-07 23:01:37.863 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.ComponentModel/System.ComponentModel.config'.
+03-07 23:01:37.863 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Xaml[0x9c3abb60] -> System.ComponentModel[0x85356180]: 2
+03-07 23:01:37.863 D/Mono    (10018): Assembly Ref addref System.ComponentModel[0x85356180] -> mscorlib[0x9c3aa060]: 51
+03-07 23:01:37.865 D/Mono    (10018): Unloading image System.Xml.ReaderWriter.dll [0x853fb500].
+03-07 23:01:37.865 D/Mono    (10018): Image addref System.Xml.ReaderWriter[0x85356120] -> System.Xml.ReaderWriter.dll[0x86160800]: 6
+03-07 23:01:37.865 D/Mono    (10018): Config attempting to parse: 'System.Xml.ReaderWriter.dll.config'.
+03-07 23:01:37.865 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Xml.ReaderWriter/System.Xml.ReaderWriter.config'.
+03-07 23:01:37.865 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> System.Xml.ReaderWriter[0x86106a80]: 4
+03-07 23:01:37.866 D/Mono    (10018): Unloading image System.Reflection.dll [0x853fb500].
+03-07 23:01:37.866 D/Mono    (10018): Image addref System.Reflection[0x85356120] -> System.Reflection.dll[0x86415300]: 8
+03-07 23:01:37.866 D/Mono    (10018): Config attempting to parse: 'System.Reflection.dll.config'.
+03-07 23:01:37.866 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Reflection/System.Reflection.config'.
+03-07 23:01:37.866 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> System.Reflection[0x9c3abf80]: 6
+03-07 23:01:37.866 D/Mono    (10018): Assembly Ref addref Xamarin.Forms.Core[0x9c3ab920] -> System.ComponentModel[0x85356180]: 3
+03-07 23:01:37.866 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> System.ComponentModel[0x85356180]: 4
+03-07 23:01:38.193 D/Mono    (10018): Assembly Ref addref System.Collections[0x9c3abe00] -> System.Core[0x9c3ac580]: 6
+03-07 23:01:38.193 D/Mono    (10018): Assembly Ref addref System.Core[0x9c3ac580] -> System[0x86106540]: 9
+03-07 23:01:38.512 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:38.512 D/Mono    (10018): Searching for 'java_interop_jnienv_call_nonvirtual_int_method_a'.
+03-07 23:01:38.512 D/Mono    (10018): Probing 'java_interop_jnienv_call_nonvirtual_int_method_a'.
+03-07 23:01:38.512 D/Mono    (10018): Found as 'java_interop_jnienv_call_nonvirtual_int_method_a'.
+03-07 23:01:38.522 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:38.522 D/Mono    (10018): Searching for 'java_interop_jnienv_call_static_int_method_a'.
+03-07 23:01:38.522 D/Mono    (10018): Probing 'java_interop_jnienv_call_static_int_method_a'.
+03-07 23:01:38.522 D/Mono    (10018): Found as 'java_interop_jnienv_call_static_int_method_a'.
+03-07 23:01:38.711 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:38.711 D/Mono    (10018): Searching for 'java_interop_jnienv_new_local_ref'.
+03-07 23:01:38.711 D/Mono    (10018): Probing 'java_interop_jnienv_new_local_ref'.
+03-07 23:01:38.711 D/Mono    (10018): Found as 'java_interop_jnienv_new_local_ref'.
+03-07 23:01:39.041 W/art     (10018): JNI RegisterNativeMethods: attempt to register 0 native methods for md5270abb39e60627f0f200893b490a1ade.ViewRenderer_2
+03-07 23:01:39.042 W/art     (10018): JNI RegisterNativeMethods: attempt to register 0 native methods for md5270abb39e60627f0f200893b490a1ade.PickerRenderer
+03-07 23:01:39.179 D/Mono    (10018): Assembly Ref addref Mono.Android[0x9c3abc20] -> System.Xml[0x86106a20]: 3
+03-07 23:01:39.207 W/art     (10018): JNI RegisterNativeMethods: attempt to register 0 native methods for md5b60ffeb829f638581ab2bb9b1a7f4f3f.ActivityIndicatorRenderer
+03-07 23:01:39.297 I/Choreographer(10018): Skipped 171 frames!  The application may be doing too much work on its main thread.
+03-07 23:01:39.392 D/        (10018): HostConnection::get() New Host Connection established 0x84a31b80, tid 10047
+03-07 23:01:39.398 W/        (10018): Unrecognized GLES max version string in extensions: ANDROID_EMU_CHECKSUM_HELPER_v1 
+03-07 23:01:39.401 I/OpenGLRenderer(10018): Initialized EGL, version 1.4
+03-07 23:01:39.401 D/OpenGLRenderer(10018): Swap behavior 1
+03-07 23:01:39.440 D/EGL_emulation(10018): eglCreateContext: 0xa93049c0: maj 2 min 0 rcv 2
+03-07 23:01:39.468 D/EGL_emulation(10018): eglMakeCurrent: 0xa93049c0: ver 2 0 (tinfo 0x855dbe60)
+03-07 23:01:39.481 E/EGL_emulation(10018): tid 10047: eglSurfaceAttrib(1261): error 0x3009 (EGL_BAD_MATCH)
+03-07 23:01:39.481 W/OpenGLRenderer(10018): Failed to set EGL_SWAP_BEHAVIOR on surface 0xa93500a0, error=EGL_BAD_MATCH
+03-07 23:01:39.723 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:39.724 D/Mono    (10018): Searching for 'java_interop_jnienv_call_nonvirtual_float_method_a'.
+03-07 23:01:39.724 D/Mono    (10018): Probing 'java_interop_jnienv_call_nonvirtual_float_method_a'.
+03-07 23:01:39.724 D/Mono    (10018): Found as 'java_interop_jnienv_call_nonvirtual_float_method_a'.
+03-07 23:01:39.816 D/EGL_emulation(10018): eglMakeCurrent: 0xa93049c0: ver 2 0 (tinfo 0x855dbe60)
+03-07 23:01:45.785 W/IInputConnectionWrapper(10018): finishComposingText on inactive InputConnection
+03-07 23:01:47.379 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:47.379 D/Mono    (10018): Searching for 'java_interop_jnienv_new_object_array'.
+03-07 23:01:47.379 D/Mono    (10018): Probing 'java_interop_jnienv_new_object_array'.
+03-07 23:01:47.379 D/Mono    (10018): Found as 'java_interop_jnienv_new_object_array'.
+03-07 23:01:47.385 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:47.387 D/Mono    (10018): Searching for 'java_interop_jnienv_set_object_array_element'.
+03-07 23:01:47.388 D/Mono    (10018): Probing 'java_interop_jnienv_set_object_array_element'.
+03-07 23:01:47.388 D/Mono    (10018): Found as 'java_interop_jnienv_set_object_array_element'.
+03-07 23:01:47.398 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:47.398 D/Mono    (10018): Searching for 'java_interop_jnienv_get_object_array_element'.
+03-07 23:01:47.398 D/Mono    (10018): Probing 'java_interop_jnienv_get_object_array_element'.
+03-07 23:01:47.398 D/Mono    (10018): Found as 'java_interop_jnienv_get_object_array_element'.
+03-07 23:01:47.518 E/EGL_emulation(10018): tid 10047: eglSurfaceAttrib(1261): error 0x3009 (EGL_BAD_MATCH)
+03-07 23:01:47.518 W/OpenGLRenderer(10018): Failed to set EGL_SWAP_BEHAVIOR on surface 0x84284240, error=EGL_BAD_MATCH
+03-07 23:01:47.532 D/EGL_emulation(10018): eglMakeCurrent: 0xa93049c0: ver 2 0 (tinfo 0x855dbe60)
+03-07 23:01:47.597 D/EGL_emulation(10018): eglMakeCurrent: 0xa93049c0: ver 2 0 (tinfo 0x855dbe60)
+03-07 23:01:47.616 D/EGL_emulation(10018): eglMakeCurrent: 0xa93049c0: ver 2 0 (tinfo 0x855dbe60)
+03-07 23:01:48.581 D/EGL_emulation(10018): eglMakeCurrent: 0xa93049c0: ver 2 0 (tinfo 0x855dbe60)
+03-07 23:01:48.604 W/InputEventReceiver(10018): Attempted to finish an input event but the input event receiver has already been disposed.
+03-07 23:01:48.609 D/EGL_emulation(10018): eglMakeCurrent: 0xa93049c0: ver 2 0 (tinfo 0x855dbe60)
+03-07 23:01:49.425 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> HtmlAgilityPack[0x9c3aa600]: 2
+03-07 23:01:49.426 D/Mono    (10018): Assembly Ref addref netstandard[0x86107800] -> System.Xml[0x86106a20]: 4
+03-07 23:01:49.426 D/Mono    (10018): Assembly Ref addref netstandard[0x86107800] -> System[0x86106540]: 10
+03-07 23:01:49.515 D/Mono    (10018): Image addref I18N[0x8403e080] -> I18N.dll[0x853fd800]: 2
+03-07 23:01:49.515 D/Mono    (10018): Prepared to set up assembly 'I18N' (I18N.dll)
+03-07 23:01:49.515 D/Mono    (10018): Assembly I18N[0x8403e080] added to domain RootDomain, ref_count=1
+03-07 23:01:49.516 D/Mono    (10018): AOT: image 'I18N.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-I18N.dll.so" not found
+03-07 23:01:49.518 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/I18N.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-I18N.dll.so" not found
+03-07 23:01:49.518 D/Mono    (10018): Config attempting to parse: 'I18N.dll.config'.
+03-07 23:01:49.518 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/I18N/I18N.config'.
+03-07 23:01:49.518 D/Mono    (10018): Assembly Ref addref I18N[0x8403e080] -> mscorlib[0x9c3aa060]: 52
+Loaded assembly: I18N.dll [External]
+03-07 23:01:49.760 D/Mono    (10018): Image addref I18N.Other[0x8403e320] -> I18N.Other.dll[0x8553dc00]: 2
+03-07 23:01:49.761 D/Mono    (10018): Prepared to set up assembly 'I18N.Other' (I18N.Other.dll)
+03-07 23:01:49.761 D/Mono    (10018): Assembly I18N.Other[0x8403e320] added to domain RootDomain, ref_count=1Loaded assembly: I18N.Other.dll [External]
+
+03-07 23:01:49.763 D/Mono    (10018): AOT: image 'I18N.Other.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-I18N.Other.dll.so" not found
+03-07 23:01:49.764 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/I18N.Other.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-I18N.Other.dll.so" not found
+03-07 23:01:49.765 D/Mono    (10018): Config attempting to parse: 'I18N.Other.dll.config'.
+03-07 23:01:49.765 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/I18N.Other/I18N.Other.config'.
+03-07 23:01:49.765 D/Mono    (10018): Assembly Ref addref I18N.Other[0x8403e320] -> I18N[0x8403e080]: 2
+03-07 23:01:49.766 D/Mono    (10018): Assembly Ref addref I18N.Other[0x8403e320] -> mscorlib[0x9c3aa060]: 53
+03-07 23:01:50.178 D/Mono    (10018): Image addref Mono.Security[0x8403e860] -> Mono.Security.dll[0x84078400]: 2
+03-07 23:01:50.178 D/Mono    (10018): Prepared to set up assembly 'Mono.Security' (Mono.Security.dll)
+03-07 23:01:50.178 D/Mono    (10018): Assembly Mono.Security[0x8403e860] added to domain RootDomain, ref_count=1
+Loaded assembly: Mono.Security.dll [External]
+03-07 23:01:50.181 D/Mono    (10018): AOT: image 'Mono.Security.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Mono.Security.dll.so" not found
+03-07 23:01:50.181 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/Mono.Security.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-Mono.Security.dll.so" not found
+03-07 23:01:50.182 D/Mono    (10018): Config attempting to parse: 'Mono.Security.dll.config'.
+03-07 23:01:50.182 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/Mono.Security/Mono.Security.config'.
+03-07 23:01:50.182 D/Mono    (10018): Assembly Ref addref System[0x86106540] -> Mono.Security[0x8403e860]: 2
+03-07 23:01:50.182 D/Mono    (10018): Assembly Ref addref Mono.Security[0x8403e860] -> mscorlib[0x9c3aa060]: 54
+03-07 23:01:50.270 D/Mono    (10018): Assembly Ref addref Mono.Android[0x9c3abc20] -> System[0x86106540]: 11
+03-07 23:01:50.440 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:01:50.440 D/Mono    (10018): Searching for 'java_interop_jnienv_call_int_method'.
+03-07 23:01:50.441 D/Mono    (10018): Probing 'java_interop_jnienv_call_int_method'.
+03-07 23:01:50.441 D/Mono    (10018): Found as 'java_interop_jnienv_call_int_method'.
+Thread started: <Thread Pool> #9
+03-07 23:01:52.258 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:52.259 D/Mono    (10018): Searching for 'sqlite3_column_count'.
+03-07 23:01:52.265 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:52.265 D/Mono    (10018): Searching for 'sqlite3_column_name'.
+03-07 23:01:52.292 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:52.292 D/Mono    (10018): Searching for 'sqlite3_column_text'.
+03-07 23:01:53.366 D/Mono    (10018): Unloading image System.Threading.dll [0x84006a00].
+03-07 23:01:53.367 D/Mono    (10018): Image addref System.Threading[0x8403f820] -> System.Threading.dll[0x86413a00]: 6
+03-07 23:01:53.370 D/Mono    (10018): Config attempting to parse: 'System.Threading.dll.config'.
+03-07 23:01:53.370 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Threading/System.Threading.config'.
+03-07 23:01:53.370 D/Mono    (10018): Assembly Ref addref SQLite-net[0x9c3aa6c0] -> System.Threading[0x9c3abe60]: 4
+03-07 23:01:53.531 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:53.531 D/Mono    (10018): Searching for 'sqlite3_bind_text'.
+03-07 23:01:53.542 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:53.542 D/Mono    (10018): Searching for 'sqlite3_bind_int'.
+03-07 23:01:53.710 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:53.710 D/Mono    (10018): Searching for 'sqlite3_reset'.
+03-07 23:01:53.719 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:01:53.719 D/Mono    (10018): Searching for 'sqlite3_last_insert_rowid'.
+03-07 23:02:14.508 D/Mono    (10018): Assembly Ref addref FixTricks[0x9c3aa240] -> Syncfusion.XlsIO.Portable[0x9c3aac60]: 2
+03-07 23:02:14.511 D/Mono    (10018): Unloading image System.IO.dll [0xa9343700].
+03-07 23:02:14.511 D/Mono    (10018): Image addref System.IO[0xa9304fc0] -> System.IO.dll[0x85b8ff00]: 6
+03-07 23:02:14.511 D/Mono    (10018): Config attempting to parse: 'System.IO.dll.config'.
+03-07 23:02:14.511 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.IO/System.IO.config'.
+03-07 23:02:14.511 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.IO[0x86107260]: 4
+03-07 23:02:14.955 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> Syncfusion.Compression.Portable[0x9c3aaba0]: 2
+03-07 23:02:14.960 D/Mono    (10018): Unloading image System.Collections.dll [0x84364300].
+03-07 23:02:14.961 D/Mono    (10018): Image addref System.Collections[0xa9304660] -> System.Collections.dll[0x86414e00]: 8
+03-07 23:02:14.961 D/Mono    (10018): Config attempting to parse: 'System.Collections.dll.config'.
+03-07 23:02:14.961 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Collections/System.Collections.config'.
+03-07 23:02:14.961 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Collections[0x9c3abe00]: 6
+03-07 23:02:14.967 D/Mono    (10018): Unloading image System.Globalization.dll [0x84364300].
+03-07 23:02:14.967 D/Mono    (10018): Image addref System.Globalization[0xa9304660] -> System.Globalization.dll[0x8553a000]: 6
+03-07 23:02:14.967 D/Mono    (10018): Config attempting to parse: 'System.Globalization.dll.config'.
+03-07 23:02:14.967 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Globalization/System.Globalization.config'.
+03-07 23:02:14.967 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Globalization[0x861078c0]: 4
+03-07 23:02:15.014 D/Mono    (10018): Unloading image System.Runtime.Extensions.dll [0xa9343700].
+03-07 23:02:15.014 D/Mono    (10018): Image addref System.Runtime.Extensions[0xa9305080] -> System.Runtime.Extensions.dll[0x86414900]: 7
+03-07 23:02:15.014 D/Mono    (10018): Config attempting to parse: 'System.Runtime.Extensions.dll.config'.
+03-07 23:02:15.014 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime.Extensions/System.Runtime.Extensions.config'.
+03-07 23:02:15.014 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Runtime.Extensions[0x9c3ac5e0]: 5
+03-07 23:02:15.079 D/Mono    (10018): Image addref System.Text.Encoding[0xa9304660] -> System.Text.Encoding.dll[0xa9343700]: 2
+03-07 23:02:15.079 D/Mono    (10018): Prepared to set up assembly 'System.Text.Encoding' (System.Text.Encoding.dll)
+03-07 23:02:15.079 D/Mono    (10018): Assembly System.Text.Encoding[0xa9304660] added to domain RootDomain, ref_count=1
+03-07 23:02:15.080 D/Mono    (10018): AOT: image 'System.Text.Encoding.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Text.Encoding.dll.so" not found
+03-07 23:02:15.080 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Text.Encoding.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Text.Encoding.dll.so" not found
+03-07 23:02:15.080 D/Mono    (10018): Config attempting to parse: 'System.Text.Encoding.dll.config'.
+03-07 23:02:15.080 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Text.Encoding/System.Text.Encoding.config'.
+03-07 23:02:15.080 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Text.Encoding[0xa9304660]: 2
+03-07 23:02:15.080 D/Mono    (10018): Assembly Ref addref System.Text.Encoding[0xa9304660] -> mscorlib[0x9c3aa060]: 55
+03-07 23:02:15.094 D/Mono    (10018): Unloading image System.Xml.ReaderWriter.dll [0x84364800].
+03-07 23:02:15.095 D/Mono    (10018): Image addref System.Xml.ReaderWriter[0xa9305020] -> System.Xml.ReaderWriter.dll[0x86160800]: 7
+03-07 23:02:15.095 D/Mono    (10018): Config attempting to parse: 'System.Xml.ReaderWriter.dll.config'.
+03-07 23:02:15.095 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Xml.ReaderWriter/System.Xml.ReaderWriter.config'.
+03-07 23:02:15.095 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Xml.ReaderWriter[0x86106a80]: 5
+Loaded assembly: System.Text.Encoding.dll [External]
+03-07 23:02:15.250 D/Mono    (10018): Unloading image System.Collections.dll [0x84364800].
+03-07 23:02:15.250 D/Mono    (10018): Image addref System.Collections[0xa93050e0] -> System.Collections.dll[0x86414e00]: 9
+03-07 23:02:15.250 D/Mono    (10018): Config attempting to parse: 'System.Collections.dll.config'.
+03-07 23:02:15.250 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Collections/System.Collections.config'.
+03-07 23:02:15.250 D/Mono    (10018): Assembly Ref addref Syncfusion.Compression.Portable[0x9c3aaba0] -> System.Collections[0x9c3abe00]: 7
+03-07 23:02:15.261 D/Mono    (10018): Unloading image System.IO.dll [0x84364800].
+03-07 23:02:15.261 D/Mono    (10018): Image addref System.IO[0xa93050e0] -> System.IO.dll[0x85b8ff00]: 7
+03-07 23:02:15.261 D/Mono    (10018): Config attempting to parse: 'System.IO.dll.config'.
+03-07 23:02:15.261 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.IO/System.IO.config'.
+03-07 23:02:15.261 D/Mono    (10018): Assembly Ref addref Syncfusion.Compression.Portable[0x9c3aaba0] -> System.IO[0x86107260]: 5
+03-07 23:02:15.268 D/Mono    (10018): Unloading image System.Runtime.Extensions.dll [0x84364800].
+03-07 23:02:15.268 D/Mono    (10018): Image addref System.Runtime.Extensions[0xa9305080] -> System.Runtime.Extensions.dll[0x86414900]: 8
+03-07 23:02:15.269 D/Mono    (10018): Config attempting to parse: 'System.Runtime.Extensions.dll.config'.
+03-07 23:02:15.269 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Runtime.Extensions/System.Runtime.Extensions.config'.
+03-07 23:02:15.269 D/Mono    (10018): Assembly Ref addref Syncfusion.Compression.Portable[0x9c3aaba0] -> System.Runtime.Extensions[0x9c3ac5e0]: 6
+03-07 23:02:15.294 D/Mono    (10018): Unloading image System.Text.RegularExpressions.dll [0x84364800].
+03-07 23:02:15.294 D/Mono    (10018): Image addref System.Text.RegularExpressions[0xa9305320] -> System.Text.RegularExpressions.dll[0x8553af00]: 5
+03-07 23:02:15.294 D/Mono    (10018): Config attempting to parse: 'System.Text.RegularExpressions.dll.config'.
+03-07 23:02:15.294 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Text.RegularExpressions/System.Text.RegularExpressions.config'.
+03-07 23:02:15.294 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Text.RegularExpressions[0x86107860]: 3
+03-07 23:02:15.412 D/Mono    (10018): Unloading image System.Reflection.dll [0x84365700].
+03-07 23:02:15.412 D/Mono    (10018): Image addref System.Reflection[0xa9305500] -> System.Reflection.dll[0x86415300]: 9
+03-07 23:02:15.412 D/Mono    (10018): Config attempting to parse: 'System.Reflection.dll.config'.
+03-07 23:02:15.412 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Reflection/System.Reflection.config'.
+03-07 23:02:15.412 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Reflection[0x9c3abf80]: 7
+03-07 23:02:15.478 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Reflection.Extensions[0x9c3ac760]: 5
+03-07 23:02:16.009 D/Mono    (10018): Unloading image System.Threading.dll [0x84364800].
+03-07 23:02:16.010 D/Mono    (10018): Image addref System.Threading[0xa93054a0] -> System.Threading.dll[0x86413a00]: 7
+03-07 23:02:16.010 D/Mono    (10018): Config attempting to parse: 'System.Threading.dll.config'.
+03-07 23:02:16.010 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Threading/System.Threading.config'.
+03-07 23:02:16.010 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Threading[0x9c3abe60]: 5
+03-07 23:02:16.360 D/Mono    (10018): Unloading image System.Text.Encoding.dll [0x84365700].
+03-07 23:02:16.360 D/Mono    (10018): Image addref System.Text.Encoding[0xa9305b00] -> System.Text.Encoding.dll[0xa9343700]: 5
+03-07 23:02:16.361 D/Mono    (10018): Config attempting to parse: 'System.Text.Encoding.dll.config'.
+03-07 23:02:16.361 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Text.Encoding/System.Text.Encoding.config'.
+03-07 23:02:16.361 D/Mono    (10018): Assembly Ref addref Syncfusion.Compression.Portable[0x9c3aaba0] -> System.Text.Encoding[0xa9304660]: 3
+03-07 23:02:16.895 D/Mono    (10018): Image addref System.Diagnostics.Debug[0xa9305e60] -> System.Diagnostics.Debug.dll[0x84364d00]: 2
+03-07 23:02:16.895 D/Mono    (10018): Prepared to set up assembly 'System.Diagnostics.Debug' (System.Diagnostics.Debug.dll)Loaded assembly: System.Diagnostics.Debug.dll [External]
+
+03-07 23:02:16.895 D/Mono    (10018): Assembly System.Diagnostics.Debug[0xa9305e60] added to domain RootDomain, ref_count=1
+03-07 23:02:16.896 D/Mono    (10018): AOT: image 'System.Diagnostics.Debug.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Diagnostics.Debug.dll.so" not found
+03-07 23:02:16.897 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Diagnostics.Debug.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Diagnostics.Debug.dll.so" not found
+03-07 23:02:16.897 D/Mono    (10018): Config attempting to parse: 'System.Diagnostics.Debug.dll.config'.
+03-07 23:02:16.897 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Diagnostics.Debug/System.Diagnostics.Debug.config'.
+03-07 23:02:16.897 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Diagnostics.Debug[0xa9305e60]: 2
+03-07 23:02:16.897 D/Mono    (10018): Assembly Ref addref System.Diagnostics.Debug[0xa9305e60] -> mscorlib[0x9c3aa060]: 56
+Loaded assembly: System.Diagnostics.Tools.dll [External]03-07 23:02:16.902 D/Mono    (10018): Image addref System.Diagnostics.Tools[0xa9305d40] -> System.Diagnostics.Tools.dll[0x84365200]: 2
+
+03-07 23:02:16.902 D/Mono    (10018): Prepared to set up assembly 'System.Diagnostics.Tools' (System.Diagnostics.Tools.dll)
+03-07 23:02:16.902 D/Mono    (10018): Assembly System.Diagnostics.Tools[0xa9305d40] added to domain RootDomain, ref_count=1
+03-07 23:02:16.903 D/Mono    (10018): AOT: image 'System.Diagnostics.Tools.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Diagnostics.Tools.dll.so" not found
+03-07 23:02:16.904 D/Mono    (10018): AOT: image '/usr/local/lib/mono/aot-cache/x86/System.Diagnostics.Tools.dll.so' not found: dlopen failed: library "/data/app/com.eugeneslobodoff.iefstudy-1/lib/x86/libaot-System.Diagnostics.Tools.dll.so" not found
+03-07 23:02:16.904 D/Mono    (10018): Config attempting to parse: 'System.Diagnostics.Tools.dll.config'.
+03-07 23:02:16.904 D/Mono    (10018): Config attempting to parse: '/usr/local/etc/mono/assemblies/System.Diagnostics.Tools/System.Diagnostics.Tools.config'.
+03-07 23:02:16.904 D/Mono    (10018): Assembly Ref addref Syncfusion.XlsIO.Portable[0x9c3aac60] -> System.Diagnostics.Tools[0xa9305d40]: 2
+03-07 23:02:16.904 D/Mono    (10018): Assembly Ref addref System.Diagnostics.Tools[0xa9305d40] -> System[0x86106540]: 12
+03-07 23:02:17.488 D/Mono    (10018): DllImport attempting to load: '__Internal'.
+03-07 23:02:17.488 D/Mono    (10018): DllImport loaded library '(null)'.
+03-07 23:02:17.488 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:02:17.488 D/Mono    (10018): Searching for 'monodroid_get_system_property'.
+03-07 23:02:17.488 D/Mono    (10018): Probing 'monodroid_get_system_property'.
+03-07 23:02:17.488 D/Mono    (10018): Found as 'monodroid_get_system_property'.
+03-07 23:02:17.488 D/Mono    (10018): DllImport searching in: '__Internal' ('(null)').
+03-07 23:02:17.489 D/Mono    (10018): Searching for 'monodroid_free'.
+03-07 23:02:17.489 D/Mono    (10018): Probing 'monodroid_free'.
+03-07 23:02:17.489 D/Mono    (10018): Found as 'monodroid_free'.
+03-07 23:02:17.711 I/art     (10018): Starting a blocking GC Explicit
+03-07 23:02:17.734 I/art     (10018): Explicit concurrent mark sweep GC freed 12005(868KB) AllocSpace objects, 0(0B) LOS objects, 39% free, 5MB/9MB, paused 1.257ms total 22.081ms
+03-07 23:02:17.736 D/Mono    (10018): GC_TAR_BRIDGE bridges 70 objects 1134 opaque 426 colors 70 colors-bridged 70 colors-visible 70 xref 0 cache-hit 0 cache-semihit 0 cache-miss 0 setup 0.05ms tarjan 0.66ms scc-setup 0.04ms gather-xref 0.02ms xref-setup 0.48ms cleanup 1.99ms
+03-07 23:02:17.736 D/Mono    (10018): GC_BRIDGE: Complete, was running for 26.24ms
+03-07 23:02:17.736 D/Mono    (10018): GC_MINOR: (Nursery full) time 9.48ms, stw 11.31ms promoted 759K major size: 1744K in use: 1080K los size: 2048K in use: 1062K
+03-07 23:02:17.748 D/Mono    (10018): DllImport searching in: 'e_sqlite3' ('libe_sqlite3.so').
+03-07 23:02:17.748 D/Mono    (10018): Searching for 'sqlite3_close_v2'.
+[0:] ЭАиТр - 171
+[0:] АСОИр - 171
+[0:] ПИр - 171
+[0:] БИОр - 171
+[0:] УИр - 171
+[0:] ПДМр - 171
+[0:] МиРр-171
+[0:] LoadGroup - 159
+[0:] LoadGroup - 162
+[0:] LoadGroup - 164
+[0:] SelectGroupByCourse - 31
+[0:] SelectGroupByCourse - 36
+Unhandled Exception:
+
+Android.Util.AndroidRuntimeException: <Timeout exceeded getting exception details>
+

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FixTricks.LogIn"
+             Title="Вход">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand"
+                     HorizontalOptions="CenterAndExpand">
+            <Label x:Name="TextX" Text="Введите номер зачётки" FontSize="Medium" />
+            <Entry x:Name="Zachetka" />
+            <Label x:Name="CourseText"  Text="Ваш курс:" />
+            <Picker x:Name="CoursePick"/>
+            <Label x:Name="Label1" Text="Ваша подгруппа:" />
+            <Picker x:Name="GroupPick">
+                <Picker.Items>
+                    <x:String>1</x:String>
+                    <x:String>2</x:String>
+                </Picker.Items>
+            </Picker>
+            <Button x:Name="PressButton" Text="Продолжить" Clicked="TaskClick" />
+            <ActivityIndicator x:Name="ActivityInd" Color="Blue" IsRunning="True" IsVisible="False" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FixTricks.views.SpecDays"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <StackLayout>
+            <ActivityIndicator x:Name="Spinn"
+                               HorizontalOptions="CenterAndExpand"
+                               VerticalOptions="CenterAndExpand"
+                               IsRunning="True"
+                               IsVisible="False" />
+            <ListView x:Name="SetPara"
+                  SeparatorVisibility="Default"
+                  Margin="0"
+                  ItemSelected="DeColor"
+                  IsGroupingEnabled="True"
+                  ItemsSource="{Binding ParaGroups}"
+                  HasUnevenRows="True">
+                
+                <ListView.GroupHeaderTemplate>
+                    <DataTemplate>
+                        <ViewCell Height="30">
+                            <StackLayout>
+                                <Label Text="{Binding Name}" FontSize="Default"
+                                       HorizontalOptions="CenterAndExpand"
+                                       VerticalOptions="CenterAndExpand"
+                                       FontAttributes="None"
+                                       HorizontalTextAlignment="Center"
+                                       TextColor="Gray"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.GroupHeaderTemplate>
+                
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Frame CornerRadius="5"
+                                   Padding="5">
+                                <StackLayout
+                             Orientation="Vertical"
+                             Padding="20,0,0,0"
+                             Spacing="0"
+                             VerticalOptions="CenterAndExpand">
+                                    <Label Text="{Binding Para}"
+                         FontSize="Medium"
+                         VerticalOptions="CenterAndExpand"
+                         TextColor="Black"/>
+                                    <StackLayout Orientation="Horizontal"
+                                                 VerticalOptions="FillAndExpand"
+                                                 Margin="0,10,10,0">
+                                        <Label Text="{Binding ParaStart}"
+                                             FontSize="Small"
+                                             VerticalOptions="Center"
+                                             HorizontalOptions="StartAndExpand"
+                                             TextColor="Gray"/>
+                                        <Label Text="{Binding ParaEnd}"
+                                             FontSize="Small"
+                                             VerticalOptions="Center"
+                                             HorizontalOptions="EndAndExpand"
+                                             TextColor="Gray"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
